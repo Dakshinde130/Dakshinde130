@@ -1,19 +1,13 @@
 <!--
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  DAKSH SHINDE
-  Upload banner.png to your repo, then this renders at the top.
+  DAKSH SHINDE · github.com/Dakshinde130
+  Zero-asset README — paste once, renders everywhere.
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
 
 <div align="center">
-  <img src="./banner.png" alt="Daksh Shinde" width="100%"/>
-</div>
 
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=26&duration=4500&pause=2200&color=7575AC&center=true&vCenter=true&width=720&lines=Final+year+engineer.+First-principles+thinker.;AI+%C3%97+Finance+%C3%97+Systems+%E2%80%94+my+three+coordinates.;I+don%27t+build+to+impress.+I+build+to+matter.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:02020a,45:06061a,100:02020a&height=300&section=header&text=Daksh%20Shinde&fontSize=86&fontColor=ededf8&fontAlignY=40&desc=I%20build%20things%20that%20think%20%E2%80%94%20and%20think%20about%20things%20worth%20building.&descAlignY=60&descSize=15&descColor=5a5a8a&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -21,10 +15,27 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/CSE%20%2B%20Data%20Science-05040f?style=flat-square&logoColor=7575ac)&nbsp;
-![](https://img.shields.io/badge/SGGS%20Institute-05040f?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Maharashtra%2C%20India-05040f?style=flat-square&logo=googlemaps&logoColor=7575ac)&nbsp;
-![](https://img.shields.io/badge/Open%20to%20Opportunities-05040f?style=flat-square&logo=checkmarx&logoColor=3ecf8e)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=27&duration=4500&pause=2200&color=7575AC&center=true&vCenter=true&width=740&lines=Final+year+engineer.+First-principles+thinker.;AI+%C3%97+Finance+%C3%97+Systems+%E2%80%94+my+three+coordinates.;I+don%27t+build+to+impress.+I+build+to+matter.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/CSE%20%2B%20Data%20Science-06061a?style=flat-square&logoColor=7575ac)&nbsp;
+![](https://img.shields.io/badge/SGGS%20Institute-06061a?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Maharashtra%2C%20India-06061a?style=flat-square&logo=googlemaps&logoColor=7575ac)&nbsp;
+![](https://img.shields.io/badge/Open%20to%20Opportunities-06061a?style=flat-square&logo=checkmarx&logoColor=3ecf8e)
+
+</div>
+
+<br/>
+
+<!-- domain coordinates — the three nodes from the banner concept, in text -->
+<div align="center">
+
+`◆ INTELLIGENCE` &nbsp;&nbsp;——&nbsp;&nbsp; `◆ FINANCE` &nbsp;&nbsp;——&nbsp;&nbsp; `◆ SYSTEMS`
 
 </div>
 
@@ -273,15 +284,15 @@ languages:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=05040f&title_color=6a6a9e&icon_color=52527a&text_color=aeaed0&ring_color=52527a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=06061a&title_color=6a6a9e&icon_color=52527a&text_color=aeaed0&ring_color=52527a"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=05040f&title_color=6a6a9e&text_color=aeaed0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=06061a&title_color=6a6a9e&text_color=aeaed0"/>
 
 </div>
 
 <div align="center"><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dakshinde130&theme=github-dark-blue&hide_border=true&background=05040f&stroke=18182e&ring=52527a&fire=6a6a9e&currStreakLabel=aeaed0&sideLabels=aeaed0&dates=52527a&currStreakNum=ebebf8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dakshinde130&theme=github-dark-blue&hide_border=true&background=06061a&stroke=18182e&ring=52527a&fire=6a6a9e&currStreakLabel=aeaed0&sideLabels=aeaed0&dates=52527a&currStreakNum=ededf8)](https://git.io/streak-stats)
 
 </div>
 
@@ -302,9 +313,9 @@ languages:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05040f?style=for-the-badge&logo=linkedin&logoColor=6a6a9e)](https://linkedin.com/in/daksh-shinde)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-05040f?style=for-the-badge&logo=github&logoColor=6a6a9e)](https://github.com/Dakshinde130)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-05040f?style=for-the-badge&logo=gmail&logoColor=6a6a9e)](mailto:dakshshinde007@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-06061a?style=for-the-badge&logo=linkedin&logoColor=6a6a9e)](https://linkedin.com/in/daksh-shinde)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-06061a?style=for-the-badge&logo=github&logoColor=6a6a9e)](https://github.com/Dakshinde130)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-06061a?style=for-the-badge&logo=gmail&logoColor=6a6a9e)](mailto:dakshshinde007@email.com)
 
 <br/>
 
