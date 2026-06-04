@@ -163,19 +163,23 @@ I led teams, handled guests, and worked with lots of different groups to pull of
 
 ## &nbsp;My GitHub Stats
 
+## My GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=08080f&title_color=ffb56b&icon_color=ff7a3c&text_color=cdbfa8&ring_color=ff7a3c"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&langs_count=6&hide_border=true&bg_color=08080f&title_color=ffb56b&text_color=cdbfa8"/>
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 <br/><br/>
 
----
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&bg_color=08080f&title_color=ffb56b&icon_color=ff7a3c&text_color=cdbfa8&ring_color=ff7a3c"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&langs_count=6&hide_border=true&cache_seconds=1800&bg_color=08080f&title_color=ffb56b&text_color=cdbfa8"/>
 
-<br/>
+<br/><br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=08080f&color=ffb56b&line=ff7a3c&point=f3ead9&area=true&hide_border=true&custom_title=My%20Contribution%20Graph"/>
+
+</div>
 
 ## &nbsp;Say Hi
 
