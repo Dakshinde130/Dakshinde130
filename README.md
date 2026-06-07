@@ -161,9 +161,7 @@ I led teams, handled guests, and worked with lots of different groups to pull of
 
 <br/>
 
-<img width="8" height="19" alt="image" src="https://github.com/user-attachments/assets/3550bf6d-278d-404d-8f7b-a1404664ad77" />
-
-## My GitHub Stats
+## &nbsp;My GitHub Stats
 
 <div align="center">
 
@@ -180,6 +178,12 @@ I led teams, handled guests, and worked with lots of different groups to pull of
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=08080f&color=ffb56b&line=ff7a3c&point=f3ead9&area=true&hide_border=true&custom_title=My%20Contribution%20Graph"/>
 
 </div>
+
+<br/><br/>
+
+---
+
+<br/>
 
 ## &nbsp;Say Hi
 
