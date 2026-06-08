@@ -1,160 +1,385 @@
 <!-- 
-  GitHub Profile README for Dakshinde130
-  Inspired by abinasharma001 — rich, animated, packed with personality
-  Repo name must be: Dakshinde130
+  GitHub Profile README — Dakshinde130
+  Style: abinasharma001 inspired, night-ramen palette
+  Icons: only real skillicons + techstack-generator sources
 -->
 
-<!-- ANIMATED GIF BANNER (replace jp.gif with your own anime/coding gif hosted in the repo) -->
+<!-- TOP BANNER GIF — upload a file named "banner.gif" to your repo root -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/banner.gif" width="100%" alt="Banner"/>
 </div>
 
----
-
 <!-- GLITCH NAME BANNER -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Daksh%20Shinde&width=800&height=200" width="800" alt="Daksh Shinde Glitch Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Daksh%20Shinde&width=800&height=200" width="800" alt="Daksh Shinde"/>
 </div>
 
 <!-- TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=FFB56B&color2=FF7A3C&center=true&vCenter=true&width=990&height=44&lines=CS+%2B+Data+Science+Student+%40+SGGS;Building+AI+Things+That+Actually+Work;Finance+%7C+Trading+%7C+Bayesian+Brains;Always+Building%2C+Always+Learning&cursor=underscore" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FFB56B&center=true&vCenter=true&width=990&height=44&lines=CS+%2B+Data+Science+%40+SGGS+Nanded;I+Build+AI+Things+That+Actually+Work;Bayesian+Brains+%7C+Finance+%7C+Algo+Trading;Always+Building%2C+Never+Stopping&cursor=underscore"/>
 </div>
 
----
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-## Developer From India 🇮🇳
+<br/>
 
-<img src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here!-FFB56B?style=for-the-badge&logoColor=white"/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Dakshinde130&label=Profile%20Views&color=ff7a3c&style=for-the-badge)](https://github.com/Dakshinde130)
+<div align="center">
+  <img src="https://img.shields.io/badge/Developer%20From%20India%20🇮🇳-1a0e08?style=for-the-badge&logoColor=ffb56b"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here!-FF7A3C?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Dakshinde130&label=Profile+Views&color=ff7a3c&style=for-the-badge"/>
+</div>
 
 ---
 
 # 🏄‍♂️ Daksh Shinde
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b228760252 3.5dbd29081561d.gif" width="320" alt="Coding GIF"/>
+<img align="right" src="https://i.imgur.com/dBaSKWF.gif" width="300" alt="Coding GIF"/>
 
-# 💫 About Me:
+## 💫 About Me
 
-- 🎓 Final year **Computer Science + Data Science** student @ **SGGS Institute, Nanded**
-- 🤖 I build things with **AI & ML** — not just to demo, but to actually work
-- 📈 Obsessed with **finance, markets & algorithmic trading**
-- 🌱 Currently leveling up in: **AI Engineering, Cloud, and Quantitative Finance**
-- 🤝 Open to collaborate on: **AI-powered apps, fintech projects, open source**
-- 💬 Ask me about: **Bayesian inference, anime, trading strategies, or literally anything CS**
-- 🎯 Looking for: **Job or internship where I can build real things with a team**
-- ⚡ Fun fact: I ran an anime guessing game on Bayesian math and it actually works
+- 🎓 **B.Tech CS + Data Science Minor** @ SGGS Institute, Nanded *(2023–2027)*
+- 🤖 I build with **AI & ML** — and I care that it actually works, not just demos well
+- 📈 Obsessed with **algorithmic trading, markets & quantitative finance**
+- 🔬 Currently diving deep into: **AI Engineering, Cloud & Quant Strategies**
+- 🤝 Open to collab on: **AI apps, fintech projects, open source**
+- 💬 Ask me about: **Bayesian inference, anime, trading, or literally anything CS**
+- 🎯 Goal: **A job or internship where I build real things with a real team**
+- ⚡ Fun fact: Built a mind-reading anime guessing game using pure probability math — and it works
 
 <br clear="right"/>
 
 ---
 
-### Connect with me:
+### 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/daksh-shinde" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/daksh-shinde-523452267" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:dakshshinde007@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail"/>
+  <a href="mailto:dakshinde007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/Dakshinde130" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://dakshinde130.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7A3C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF7A3C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 # 💻 My Favorite Tools & Technologies
 
-| <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br/>Python | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br/>JavaScript | <img src="https://skillicons.dev/icons?i=java" width="65"/><br/>Java | <img src="https://skillicons.dev/icons?i=c" width="65"/><br/>C | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br/>React | <img src="https://skillicons.dev/icons?i=supabase" width="65"/><br/>Supabase | <img src="https://skillicons.dev/icons?i=streamlit" width="65"/><br/>Streamlit |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://skillicons.dev/icons?i=git" width="65"/><br/>Git | <img src="https://skillicons.dev/icons?i=github" width="65"/><br/>GitHub | <img src="https://skillicons.dev/icons?i=vscode" width="65"/><br/>VS Code | <img src="https://skillicons.dev/icons?i=pandas" width="65"/><br/>Pandas | <img src="https://skillicons.dev/icons?i=sklearn" width="65"/><br/>Scikit-Learn | <img src="https://skillicons.dev/icons?i=opencv" width="65"/><br/>OpenCV | <img src="https://skillicons.dev/icons?i=mysql" width="65"/><br/>MySQL |
-| <img src="https://skillicons.dev/icons?i=html" width="65"/><br/>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="65"/><br/>CSS | <img src="https://skillicons.dev/icons?i=postman" width="65"/><br/>Postman | <img src="https://skillicons.dev/icons?i=linux" width="65"/><br/>Linux | <img src="https://skillicons.dev/icons?i=windows" width="65"/><br/>Windows | <img src="https://skillicons.dev/icons?i=ollama" width="65"/><br/>Ollama | <img src="https://skillicons.dev/icons?i=gcp" width="65"/><br/>GCP |
+<div align="center">
+
+<!-- ROW 1: Core Languages -->
+<table>
+<tr>
+  <td align="center" width="110">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br/>
+    <b>Python</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br/>
+    <b>JavaScript</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=java" width="65" height="65"/><br/>
+    <b>Java</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=c" width="65" height="65"/><br/>
+    <b>C</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br/>
+    <b>React</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65"/><br/>
+    <b>Supabase</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65"/><br/>
+    <b>MySQL</b>
+  </td>
+</tr>
+
+<!-- ROW 2: Tools & DevOps -->
+<tr>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=git" width="65" height="65"/><br/>
+    <b>Git</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=github" width="65" height="65"/><br/>
+    <b>GitHub</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/><br/>
+    <b>VS Code</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=postman" width="65" height="65"/><br/>
+    <b>Postman</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=html" width="65" height="65"/><br/>
+    <b>HTML5</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=css" width="65" height="65"/><br/>
+    <b>CSS</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=linux" width="65" height="65"/><br/>
+    <b>Linux</b>
+  </td>
+</tr>
+
+<!-- ROW 3: AI/ML & Data -->
+<tr>
+  <td align="center" width="110">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br/>
+    <b>Open Source</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65"/><br/>
+    <b>Scikit-Learn</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65"/><br/>
+    <b>OpenCV</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65"/><br/>
+    <b>Pandas</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="65" height="65"/><br/>
+    <b>Streamlit</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" width="65" height="65" style="filter:invert(80%) sepia(50%) saturate(400%) hue-rotate(5deg);"/><br/>
+    <b>Ollama</b>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65"/><br/>
+    <b>GCP</b>
+  </td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 # 🚀 Projects I'm Proud Of
 
-### 🎯 AniKator — *An anime guessing game that feels like mind-reading*
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVsZzBxY3VvNGYzdGo4dTViYTJiajFkeHhxbGpheHl0cG9mY2E4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoWm8YzFkJibtCe6aq/giphy.gif" width="200"/>
-
-You think of an anime character. AniKator asks smart questions until it figures out who you picked. Built from scratch using Bayesian inference + Decision Trees — no random guessing, pure probability math.
-
-![Python](https://img.shields.io/badge/Python-1a0e08?style=flat-square&logo=python&logoColor=ffb56b)
-![Bayesian Logic](https://img.shields.io/badge/Bayesian%20Logic-1a0e08?style=flat-square&logoColor=ff7a3c)
-![Decision Trees](https://img.shields.io/badge/Decision%20Trees-1a0e08?style=flat-square&logoColor=ff7a3c)
-![React](https://img.shields.io/badge/React-1a0e08?style=flat-square&logo=react&logoColor=ffb56b)
-![Pandas](https://img.shields.io/badge/Pandas-1a0e08?style=flat-square&logo=pandas&logoColor=ffb56b)
-
-[**→ See the code**](https://github.com/Dakshinde130/anikator)
-
-<br clear="right"/>
+<br/>
 
 ---
 
-### 👗 SmartStyle AI — *AI-powered wardrobe for your whole family*
+### 🎯 &nbsp; AniKator &nbsp; — &nbsp; *The AI That Can Read Your Mind*
 
-Tracks your clothing, recognizes items with computer vision, and suggests outfits. Has secure OTP login via Supabase and works for one person or an entire family sharing a wardrobe.
+> **"Think of any anime character. I'll figure out who you picked."**
 
-![Python](https://img.shields.io/badge/Python-1a0e08?style=flat-square&logo=python&logoColor=ffb56b)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1a0e08?style=flat-square&logo=opencv&logoColor=ffb56b)
-![React](https://img.shields.io/badge/React-1a0e08?style=flat-square&logo=react&logoColor=ffb56b)
-![Supabase](https://img.shields.io/badge/Supabase-1a0e08?style=flat-square&logo=supabase&logoColor=3ecf8e)
+<table>
+<tr>
+<td width="65%">
 
-[**→ See the code**](https://github.com/Dakshinde130/SmartStyle-AI-based-Family-Wardrobe-and-Outfit-Recommendation-System)
+AniKator is an **Akinator-style guessing game** for anime fans, powered by **Bayesian inference** and **Decision Trees**. You think of a character from a dataset of **1000+ anime characters** — AniKator asks targeted yes/no questions and narrows down the answer using probability math, not brute force.
+
+Every question it asks is the *statistically optimal* question — the one that eliminates the most possibilities at once. The more you play, the smarter the logic feels.
+
+**What makes it different:**
+- 🧠 Pure math, no hardcoded logic trees
+- 📊 1000+ characters across genres and eras
+- ⚡ Optimized question flow — finds the answer fast
+- 🎮 Built entirely solo, from dataset to UI
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/WoWm8YzFkJibtCe6aq/giphy.gif" width="200" alt="AniKator"/>
+
+</td>
+</tr>
+</table>
+
+<div>
+
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFB56B)
+![Bayesian](https://img.shields.io/badge/Bayesian_Inference-20232A?style=for-the-badge&logoColor=FF7A3C)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-20232A?style=for-the-badge&logoColor=FF7A3C)
+![Pandas](https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=FFB56B)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/anikator)
+
+</div>
+
+<br/>
 
 ---
 
-### 🔄 SkillSwap — *Classmates teaching classmates*
+### 👗 &nbsp; SmartStyle AI &nbsp; — &nbsp; *Your Family's AI Fashion Assistant*
 
-A platform where students exchange skills instead of money. You teach what you know, you learn what you don't. Born from the idea that classmates are an underrated resource.
+> **"Never stare at your wardrobe wondering what to wear again."**
 
-![Python](https://img.shields.io/badge/Python-1a0e08?style=flat-square&logo=python&logoColor=ffb56b)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a0e08?style=flat-square&logo=streamlit&logoColor=ffb56b)
-![Pandas](https://img.shields.io/badge/Pandas-1a0e08?style=flat-square&logo=pandas&logoColor=ffb56b)
+<table>
+<tr>
+<td width="35%" align="center">
 
-[**→ See the code**](https://github.com/Dakshinde130/skillswap)
+<img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="200" alt="SmartStyle"/>
+
+</td>
+<td width="65%">
+
+SmartStyle is a **full-stack AI wardrobe management app** that goes beyond just storing clothes. It uses **computer vision** to recognize clothing items, suggests outfits based on occasion and preferences, and works for a single person, a couple, or an entire family under one account.
+
+Built with a secure **OTP-based login flow via Supabase** — no passwords to remember, no security compromises. The cloud backend means your wardrobe goes wherever you do.
+
+**What it solves:**
+- 🔍 Knows what you own, even when you forget
+- 🤖 CV-powered item recognition — snap and save
+- 👨‍👩‍👧 Multi-user support for families
+- 🔐 Secure OTP auth, zero password friction
+
+</td>
+</tr>
+</table>
+
+<div>
+
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFB56B)
+![OpenCV](https://img.shields.io/badge/Computer_Vision-20232A?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/SmartStyle-AI-based-Family-Wardrobe-and-Outfit-Recommendation-System)
+
+</div>
+
+<br/>
 
 ---
 
-### 🍳 Recipe Generator — *Tell it what you have, it tells you what to cook*
+### 🔄 &nbsp; SkillSwap &nbsp; — &nbsp; *The Student Knowledge Exchange*
 
-Java-based app that takes your ingredients or preferences and pulls recipes via API. Clean object-oriented code designed to be extended later.
+> **"You know something I don't. I know something you don't. Let's trade."**
 
-![Java](https://img.shields.io/badge/Java-1a0e08?style=flat-square&logo=openjdk&logoColor=ffb56b)
-![APIs](https://img.shields.io/badge/REST%20APIs-1a0e08?style=flat-square&logoColor=ffb56b)
-![OOP](https://img.shields.io/badge/Object%20Oriented-1a0e08?style=flat-square&logoColor=ffb56b)
+<table>
+<tr>
+<td width="65%">
 
-[**→ See the code**](https://github.com/Dakshinde130/recipe-generator)
+SkillSwap is a **peer-to-peer learning platform** built on a simple but powerful idea: college students are massively underutilized as teachers. You post a skill you can teach, browse skills you want to learn, and connect — no money, no tutors, just students helping students.
+
+The app handles matching, listings, and session coordination. It was born from a real frustration: paying for courses when the person sitting two rows behind you already knows everything you're trying to learn.
+
+**The vision:**
+- 🔁 Skill barter — teach one, learn one
+- 🎓 Built for and by students
+- ⚡ Fast Streamlit interface, clean Pandas backend
+- 🌱 Designed to scale to any campus
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="SkillSwap"/>
+
+</td>
+</tr>
+</table>
+
+<div>
+
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFB56B)
+![Streamlit](https://img.shields.io/badge/Streamlit-20232A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Pandas](https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=FFB56B)
+
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/skillswap)
+
+</div>
+
+<br/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+### 🍳 &nbsp; Recipe Generator &nbsp; — &nbsp; *Ingredients In, Dinner Out*
+
+> **"Tell it what's in your fridge. It figures out the rest."**
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="200" alt="Recipe Generator"/>
+
+</td>
+<td width="65%">
+
+A **Java-based recipe discovery app** that takes what you have — ingredients, dietary preferences, or a craving — and returns recipes via live API calls. The focus was on writing genuinely **clean, extensible OOP code**: every component is modular, every method does one thing well.
+
+This isn't a flashy project — it's a disciplined one. The kind of codebase you can hand to someone else and they actually understand it.
+
+**The engineering:**
+- ☕ Java with clean OOP architecture
+- 🔌 Live recipe API integration
+- 🧩 Modular design — easy to extend or repurpose
+- 📐 Written to be readable, not just functional
+
+</td>
+</tr>
+</table>
+
+<div>
+
+![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=FFB56B)
+![REST API](https://img.shields.io/badge/REST_APIs-20232A?style=for-the-badge&logoColor=FF7A3C)
+![OOP](https://img.shields.io/badge/OOP_Design-20232A?style=for-the-badge&logoColor=FF7A3C)
+
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/recipe-generator)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Dakshinde130&theme=highcontrast&hide_border=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dakshinde130&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FFB56B&ring=FF7A3C&currStreakLabel=FFB56B&sideLabels=FFB56B&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117" alt="Streak"/>
 
-![Stats](https://github-stats-alpha.vercel.app/api?username=Dakshinde130&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff)
+<br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=FFB56B&icon_color=FF7A3C&text_color=FFFFFF&bg_color=0D1117" alt="Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&theme=radical&hide_border=false&layout=compact&langs_count=8&title_color=FFB56B&text_color=FFFFFF&bg_color=0D1117&hide=Jupyter%20Notebook" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -163,46 +388,63 @@ Java-based app that takes your ingredients or preferences and pulls recipes via 
 ## 🏆 GitHub Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
+</div>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+# 🏅 Certifications & Courses
+
+<div align="center">
+
+| &nbsp; | Certification | Issuer |
+|:---:|---|---|
+| 🟠 | Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle |
+| 🟠 | Oracle Cloud Infrastructure 2025 Generative AI Professional | Oracle |
+| 📈 | Trading Strategies in Emerging Markets | Indian School of Business |
+| 🤖 | Machine Learning for All | University of London |
+| 💹 | Python & Statistics for Financial Analysis | HKUST |
+| 🧩 | Data Structures & Algorithms Specialization | UC San Diego |
+| 🐍 | Using Python to Access Web Data | University of Michigan |
+| 🐍 | Python Data Structures | University of Michigan |
+| 🐍 | Retrieving, Processing & Visualizing Data with Python | University of Michigan |
+| ✨ | Claude AI Fluency & Prompt Engineering | Anthropic |
+| 🌐 | Develop a Company Website with Wix | Coursera |
+| 🏆 | Smart India Hackathon Participant | Government of India |
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-# 🏅 Certifications & Courses
-
-| 🟠 Oracle Cloud AI Foundations + Gen AI Professional | Oracle · 2025 |
-|---|---|
-| 📈 Trading Strategies in Emerging Markets | Indian School of Business |
-| 🤖 Machine Learning for All | University of London |
-| 💹 Python & Statistics for Financial Analysis | HKUST |
-| 🧩 Data Structures & Algorithms | UC San Diego |
-| 🐍 Using Python to Access Web Data | University of Michigan |
-| ✨ Claude 101 & AI Fluency | Anthropic |
-| 🏆 Smart India Hackathon Participant | Government of India |
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 # 🎖️ Leadership — Pragyaa Fest
 
-I've helped run **Pragyaa**, SGGS's flagship annual tech & culture fest, for **three consecutive years** — with a bigger role each year:
+<div align="center">
 
-| Year | Role |
-|------|------|
-| 2023–24 | Hospitality Trainee |
-| 2024–25 | Joint Coordinator, Public Relations |
-| 2025–26 | **Hospitality & Guest Management Lead** |
+> *Three years. Three roles. One fest that taught me how to actually get things done.*
 
-Led teams, managed high-profile guests, coordinated across departments, and stayed calm when things got chaotic. Three years of learning how to actually get things done.
+| 📅 Year | 🎭 Role | 📈 Level |
+|:---:|---|:---:|
+| 2023–24 | Hospitality Trainee | 🌱 Start |
+| 2024–25 | Joint Coordinator, Public Relations | 🚀 Growth |
+| 2025–26 | **Hospitality & Guest Management Lead** | 👑 Lead |
+
+</div>
+
+Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led teams, managed VIP guests, coordinated with sponsorship, PR, and logistics teams simultaneously — and kept calm when everything was on fire. Three years of building the muscle to get things done under pressure.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 # ✍️ Random Dev Quote
 
@@ -212,55 +454,53 @@ Led teams, managed high-profile guests, coordinated across departments, and stay
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=08080f&color=ffb56b&line=ff7a3c&point=f3ead9&area=true&hide_border=true&custom_title=Daksh%27s%20Activity%20Over%20Time"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=0d1117&color=ffb56b&line=ff7a3c&point=f3ead9&area=true&hide_border=true&custom_title=Daksh%27s%20Contribution%20Graph"/>
 </div>
 
 ---
 
-<!-- 3D CONTRIBUTION GRAPH -->
-<!-- Auto-generated via GitHub Actions — set up the workflow below -->
+<!-- 3D CONTRIBUTION GRAPH — auto-generated by GitHub Actions (setup in comments below) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
 </div>
 
-<!-- PACMAN / SNAKE ANIMATION -->
-<!-- Auto-generated via GitHub Actions — set up the workflow below -->
+<!-- PACMAN SNAKE — auto-generated by GitHub Actions -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/pacman-contributions.svg" alt="Pacman Contributions" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/pacman-contributions.svg" width="100%" alt="Pacman Snake"/>
 </div>
 
 ---
 
-## 🔭 Right Now
+## 🔭 What I'm Doing Right Now
 
-- 🔭 Polishing and expanding my projects (check them out above)
-- 🌱 Going deeper on AI engineering and putting models into production
-- 💸 Reading about markets, quant strategies, and algorithmic trading
-- 🤝 Actively looking for a job or internship where I can keep growing
-- 💬 Always down to talk about a cool idea
+- 🔭 &nbsp;Polishing my projects and pushing more commits
+- 🌱 &nbsp;Going deeper on **AI engineering** — putting real models into production
+- 💸 &nbsp;Studying **quant strategies**, pairs trading, and market microstructure
+- 🤝 &nbsp;Actively looking for **jobs and internships** where I can grow fast
+- 💬 &nbsp;Always down to talk about a cool idea — just reach out
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0e08?style=for-the-badge&logo=linkedin&logoColor=ffb56b)](https://linkedin.com/in/daksh-shinde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0e08?style=for-the-badge&logo=linkedin&logoColor=FFB56B)](https://linkedin.com/in/daksh-shinde-523452267)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1a0e08?style=for-the-badge&logo=github&logoColor=ffb56b)](https://github.com/Dakshinde130)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0e08?style=for-the-badge&logo=github&logoColor=FFB56B)](https://github.com/Dakshinde130)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-1a0e08?style=for-the-badge&logo=gmail&logoColor=ffb56b)](mailto:dakshshinde007@email.com)
+[![Gmail](https://img.shields.io/badge/Email-1a0e08?style=for-the-badge&logo=gmail&logoColor=FFB56B)](mailto:dakshinde007@gmail.com)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a0e08?style=for-the-badge&logo=google-chrome&logoColor=ff7a3c)](https://dakshinde130.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0e08?style=for-the-badge&logo=google-chrome&logoColor=FF7A3C)](https://dakshinde130.github.io)
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Dakshinde130&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dakshinde130&icon=7&color=12)](https://visitcount.itsvg.in)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:08080f,50:1a0e08,100:08080f&height=80&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%8D%9C&fontSize=18&fontColor=ffb56b&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:1a0e08,100:ff7a3c&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20🍜&fontSize=20&fontColor=ffb56b&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -268,53 +508,57 @@ Led teams, managed high-profile guests, coordinated across departments, and stay
 
 <!--
 ====================================================
-⚙️  GITHUB ACTIONS SETUP (required for animated extras)
+⚙️  GITHUB ACTIONS SETUP (for 3D graph + Pacman snake)
 ====================================================
 
-1. 3D CONTRIBUTION GRAPH
-   Create: .github/workflows/profile-3d.yml
-   ---
-   name: GitHub-Profile-3D-Contrib
-   on:
-     schedule:
-       - cron: "0 18 * * *"
-     workflow_dispatch:
-   jobs:
-     build:
-       runs-on: ubuntu-latest
-       name: generate-github-profile-3d-contrib
-       steps:
-         - uses: actions/checkout@v3
-         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-             USERNAME: Dakshinde130
-         - run: |
-             git config user.email "action@github.com"
-             git config user.name "GitHub Action"
-             git add -A
-             git commit -m "Generate 3D Contribution Graph" || true
-             git push
+── 1. 3D CONTRIBUTION GRAPH ──────────────────────
+File: .github/workflows/profile-3d.yml
 
-2. PACMAN SNAKE ANIMATION
-   Create: .github/workflows/snake.yml
-   ---
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: Dakshinde130
-             outputs: |
-               pacman-contributions.svg?palette=github-dark&color_snake=ff7a3c
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Dakshinde130
+      - run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A
+          git commit -m "Update 3D graph" || true
+          git push
 
-3. Upload a GIF named banner.gif to the root of this repo for the top banner.
-   Find cool coding/anime GIFs from giphy.com or tenor.com.
+── 2. PACMAN SNAKE ───────────────────────────────
+File: .github/workflows/snake.yml
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Dakshinde130
+          outputs: |
+            pacman-contributions.svg?palette=github-dark&color_snake=ff7a3c
+      - uses: actions/upload-artifact@v3
+        with:
+          name: pacman
+          path: pacman-contributions.svg
+
+── 3. BANNER GIF ─────────────────────────────────
+Upload any anime/coding GIF as "banner.gif" to your repo root.
+Find one at: https://giphy.com/search/coding-anime
 ====================================================
 -->
