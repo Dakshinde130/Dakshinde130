@@ -219,7 +219,7 @@ Every question it asks is the *statistically optimal* question — the one that 
 </td>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" width="200" alt="AniKator — Anime Guessing"/>
+<img src="https://media1.tenor.com/m/xRUyjk6zCSIAAAAd/bleach-ichigo.gif" width="200" alt="Ichigo confused — AniKator"/>
 
 </td>
 </tr>
@@ -249,7 +249,7 @@ Every question it asks is the *statistically optimal* question — the one that 
 <tr>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif" width="200" alt="SmartStyle AI — Wardrobe"/>
+<img src="https://media1.tenor.com/m/Cy8zIi3BluwAAAAd/chico-lachowski-mog.gif" width="180" alt="SmartStyle — Style"/>
 
 </td>
 <td width="65%">
@@ -385,18 +385,31 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 
 <br/><br/>
 
-<!-- LANGUAGE BADGES — guaranteed to show your actual stack from resume -->
-<img src="https://img.shields.io/badge/Python-★★★★★-FFB56B?style=flat-square&logo=python&logoColor=FFB56B&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Java-★★★★☆-FF7A3C?style=flat-square&logo=openjdk&logoColor=FF7A3C&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-★★★☆☆-FFB56B?style=flat-square&logo=javascript&logoColor=FFB56B&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/C-★★★☆☆-FF7A3C?style=flat-square&logo=c&logoColor=FF7A3C&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-★★★☆☆-FFB56B?style=flat-square&logo=mysql&logoColor=FFB56B&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/HTML%2FCSS-★★★☆☆-FF7A3C?style=flat-square&logo=html5&logoColor=FF7A3C&labelColor=0D1117"/>
+<!-- LANGUAGE SKILL BARS — styled & stunning -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&width=100%25"/>
+
+<br/>
+
+**`🐍 Python`** &nbsp;
+![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-95%25-FFB56B?style=flat-square&labelColor=0D1117&color=FFB56B)
+
+**`☕ Java`** &nbsp;&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░-78%25-FF7A3C?style=flat-square&labelColor=0D1117&color=FF7A3C)
+
+**`🌐 JavaScript`**
+![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░-65%25-FFB56B?style=flat-square&labelColor=0D1117&color=FFB56B)
+
+**`⚙️ C`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-60%25-FF7A3C?style=flat-square&labelColor=0D1117&color=FF7A3C)
+
+**`🗄️ SQL`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-55%25-FFB56B?style=flat-square&labelColor=0D1117&color=FFB56B)
+
+**`🎨 HTML/CSS`**
+![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░░░░░░░░░░░-50%25-FF7A3C?style=flat-square&labelColor=0D1117&color=FF7A3C)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&width=100%25"/>
 
 </div>
 
