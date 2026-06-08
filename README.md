@@ -219,7 +219,7 @@ Every question it asks is the *statistically optimal* question — the one that 
 </td>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/WoWm8YzFkJibtCe6aq/giphy.gif" width="200" alt="AniKator"/>
+<img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" width="200" alt="AniKator — Anime Guessing"/>
 
 </td>
 </tr>
@@ -249,7 +249,7 @@ Every question it asks is the *statistically optimal* question — the one that 
 <tr>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="200" alt="SmartStyle"/>
+<img src="https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif" width="200" alt="SmartStyle AI — Wardrobe"/>
 
 </td>
 <td width="65%">
@@ -373,13 +373,30 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Dakshinde130&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FFB56B&ring=FF7A3C&currStreakLabel=FFB56B&sideLabels=FFB56B&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117" alt="Streak"/>
+<!-- STREAK — most stable provider -->
+<img src="https://streak-stats.demolab.com?user=Dakshinde130&theme=radical&hide_border=false&border_radius=10&fire=FFB56B&ring=FF7A3C&currStreakLabel=FFB56B&sideLabels=FFB56B&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&stroke=FF7A3C&dates=9B9B9B" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=FFB56B&icon_color=FF7A3C&text_color=FFFFFF&bg_color=0D1117" alt="Stats" height="180"/>
+<!-- STATS + TOP LANGS side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=FFB56B&icon_color=FF7A3C&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800" alt="Daksh's GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&theme=radical&hide_border=false&layout=compact&langs_count=8&title_color=FFB56B&text_color=FFFFFF&bg_color=0D1117&hide=Jupyter%20Notebook" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&theme=radical&hide_border=false&layout=compact&langs_count=8&title_color=FFB56B&text_color=FFFFFF&bg_color=0D1117&hide=Jupyter%20Notebook&cache_seconds=1800" alt="Top Languages" height="180"/>
+
+<br/><br/>
+
+<!-- LANGUAGE BADGES — guaranteed to show your actual stack from resume -->
+<img src="https://img.shields.io/badge/Python-★★★★★-FFB56B?style=flat-square&logo=python&logoColor=FFB56B&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Java-★★★★☆-FF7A3C?style=flat-square&logo=openjdk&logoColor=FF7A3C&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-★★★☆☆-FFB56B?style=flat-square&logo=javascript&logoColor=FFB56B&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/C-★★★☆☆-FF7A3C?style=flat-square&logo=c&logoColor=FF7A3C&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-★★★☆☆-FFB56B?style=flat-square&logo=mysql&logoColor=FFB56B&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/HTML%2FCSS-★★★☆☆-FF7A3C?style=flat-square&logo=html5&logoColor=FF7A3C&labelColor=0D1117"/>
 
 </div>
 
@@ -388,7 +405,7 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=4&row=2" alt="GitHub Trophies"/>
 </div>
 
 ---
