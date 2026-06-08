@@ -39,7 +39,7 @@
 
 # 🏄‍♂️ Daksh Shinde
 
-<img align="right" src="https://media1.tenor.com/m/JTXqU5BBD7wAAAAC/mario-mariochillin.gif" width="280" alt="Chill Mario — pixeljeff"/>
+<img align="right" src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/22b22287602523.5dbd29081561d.gif" width="280" alt="Lofi Pixel Art"/>
 
 ## 💫 About Me
 
