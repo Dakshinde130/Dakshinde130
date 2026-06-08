@@ -1,236 +1,343 @@
-<!--
-  Profile README  →  repo name must be: Dakshinde130
-  Warm "night ramen" theme. The broken stat boxes + trophy are removed.
-  Kept the contribution graph (it loads) + clean badges. Paste this whole file.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:08080f,45:1a0e08,100:08080f&height=300&section=header&text=Daksh%20Shinde&fontSize=84&fontColor=f3ead9&fontAlignY=40&desc=Final%20year%20Computer%20Science%20student%20who%20likes%20building%20with%20AI&descAlignY=60&descSize=15&descColor=ffb56b&animation=fadeIn" width="100%"/>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=400&size=23&duration=4000&pause=2000&color=FFB56B&center=true&vCenter=true&width=720&lines=Final+year+Computer+Science+student;I+build+things+with+AI;I+also+love+finance+and+trading;Looking+for+a+job+or+internship)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/Computer%20Science%20Student-1a0e08?style=for-the-badge&logoColor=ffb56b)
-![](https://img.shields.io/badge/SGGS%20Institute-1a0e08?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20to%20Work-1a0e08?style=for-the-badge&logo=checkmarx&logoColor=3ecf8e)
-
-<br/>
-
-### [↗ &nbsp;See my portfolio website](https://dakshinde130.github.io)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Hey+There+%F0%9F%91%8B+I'm+Daksh+Shinde;AI+%26+Data+Science+Enthusiast;Future+Quant+Trader+%F0%9F%93%88;Computer+Science+Engineer;Building+Technology+Driven+Solutions;Learning+%E2%86%92+Building+%E2%86%92+Growing" />
 
 </div>
 
-<br/>
+<h1 align="center">Daksh Shinde</h1>
 
----
-
-<br/>
-
-## &nbsp;Hi, I'm Daksh 👋
-
-I'm a final year Computer Science student at SGGS Institute of Engineering and Technology. I also have a minor in Data Science.
-
-I like building things, mostly with AI. I'm also really into finance and trading. Most of my projects started as class projects or ideas I just wanted to try. I built them to actually work, not only to look nice.
-
-Right now I'm looking for a job or internship where I can keep learning and build real things with a team.
-
-<br/>
-
-| | |
-|---|---|
-| 🎓 &nbsp;**Studying** | Computer Science + Data Science minor |
-| 🏫 &nbsp;**College** | SGGS Institute of Engineering and Technology |
-| 📍 &nbsp;**From** | Maharashtra, India |
-| 💼 &nbsp;**Status** | Open to jobs and internships |
-| 🗣️ &nbsp;**Speaks** | English, Hindi, Marathi, a little Japanese |
-
-<br/>
-
----
-
-<br/>
-
-## &nbsp;Things I've Built
-
-Here are four projects I'm proud of. Click "See the code" on any one to open it.
-
-<br/>
-
-### 🎯 &nbsp;Anikator
-*A guessing game that feels like it can read your mind.*
-
-You think of an anime character, and the app asks you questions until it guesses who you picked. It uses smart math (probability) to ask good questions instead of random ones. I built the whole thing by myself.
-
-![Python](https://img.shields.io/badge/Python-1a0e08?style=flat-square&logo=python&logoColor=ffb56b)
-![Bayesian Logic](https://img.shields.io/badge/Bayesian%20Logic-1a0e08?style=flat-square&logoColor=ffb56b)
-![Decision Trees](https://img.shields.io/badge/Decision%20Trees-1a0e08?style=flat-square&logoColor=ffb56b)
-![React](https://img.shields.io/badge/React-1a0e08?style=flat-square&logo=react&logoColor=ffb56b)
-
-[**→ See the code**](https://github.com/Dakshinde130/anikator)
-
-<br/>
-
-### 👗 &nbsp;SmartStyle AI
-*An app that helps you pick what to wear.*
-
-It keeps track of your clothes and suggests outfits. It uses computer vision to look at your clothing, has safe OTP login, and saves everything to the cloud. It works for one person, a couple, or a whole family.
-
-![Python](https://img.shields.io/badge/Python-1a0e08?style=flat-square&logo=python&logoColor=ffb56b)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1a0e08?style=flat-square&logo=opencv&logoColor=ffb56b)
-![React](https://img.shields.io/badge/React-1a0e08?style=flat-square&logo=react&logoColor=ffb56b)
-![Supabase](https://img.shields.io/badge/Supabase-1a0e08?style=flat-square&logo=supabase&logoColor=3ecf8e)
-
-[**→ See the code**](https://github.com/Dakshinde130/SmartStyle-AI-based-Family-Wardrobe-and-Outfit-Recommendation-System)
-
-<br/>
-
-### 🔄 &nbsp;SkillSwap
-*A place where students teach each other.*
-
-You share a skill you're good at, and you learn a skill from someone else. No money, just trading what you know. I made it because I think classmates can learn a lot from one another.
-
-![Python](https://img.shields.io/badge/Python-1a0e08?style=flat-square&logo=python&logoColor=ffb56b)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a0e08?style=flat-square&logo=streamlit&logoColor=ffb56b)
-![Pandas](https://img.shields.io/badge/Pandas-1a0e08?style=flat-square&logo=pandas&logoColor=ffb56b)
-
-[**→ See the code**](https://github.com/Dakshinde130/skillswap)
-
-<br/>
-
-### 🍳 &nbsp;Recipe Generator
-*Tells you what to cook.*
-
-You tell it what you like or what you have, and it finds recipes for you using an online recipe service. I focused on writing clean code that's easy to add to later.
-
-![Java](https://img.shields.io/badge/Java-1a0e08?style=flat-square&logo=openjdk&logoColor=ffb56b)
-![APIs](https://img.shields.io/badge/APIs-1a0e08?style=flat-square&logoColor=ffb56b)
-![OOP](https://img.shields.io/badge/Object%20Oriented-1a0e08?style=flat-square&logoColor=ffb56b)
-
-[**→ See the code**](https://github.com/Dakshinde130/recipe-generator)
-
-<br/>
-
----
-
-<br/>
-
-## &nbsp;What I Know
+<h3 align="center">
+Computer Science Engineer • AI Enthusiast • Future Quant Trader • Entrepreneur
+</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c,react,supabase,git,github,vscode&theme=dark&perline=9"/>
+<a href="https://linkedin.com/in/daksh-shinde">
+<img src="https://img.shields.io/badge/LinkedIn-Daksh%20Shinde-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dakshshinde007@email.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/dakshshinde130">
+<img src="https://img.shields.io/github/followers/dakshshinde130?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=dakshshinde130&style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
 
-| Area | What I use |
-|------|-----------|
-| 🧠 &nbsp;**AI & Data** | Machine Learning, Computer Vision, Decision Trees, Bayesian Logic |
-| 💻 &nbsp;**Languages** | Python, Java, JavaScript, C, SQL |
-| 🌐 &nbsp;**Web & Apps** | React, Streamlit, APIs, Supabase |
-| 📊 &nbsp;**Finance** | Trading basics, financial analysis, working with data |
-| 🔧 &nbsp;**Tools** | Git, GitHub, VS Code |
+# 👨‍💻 About Me
 
-<br/>
+```python
+class DakshShinde:
+
+    def __init__(self):
+
+        self.role = "Computer Science Engineer"
+
+        self.focus = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Quantitative Finance",
+            "Trading Systems"
+        ]
+
+        self.currently_learning = [
+            "Advanced Python",
+            "AI Engineering",
+            "Financial Markets",
+            "System Design"
+        ]
+
+        self.goal = """
+        Build AI-driven products,
+        become a successful trader,
+        and create impactful businesses.
+        """
+```
 
 ---
 
-<br/>
+# 🚀 Current Mission
 
-## &nbsp;Courses I've Finished
-
-I like learning outside of class too. Here are some courses I've done:
-
-- 🟠 &nbsp;**Oracle Cloud AI Foundations + Generative AI Professional** — Oracle (2025)
-- 📈 &nbsp;**Trading Strategies in Emerging Markets** — Indian School of Business
-- 🤖 &nbsp;**Machine Learning for All** — University of London
-- 💹 &nbsp;**Python and Statistics for Financial Analysis** — HKUST
-- 🧩 &nbsp;**Data Structures and Algorithms** — UC San Diego
-- 🐍 &nbsp;**Using Python to Access Web Data** — University of Michigan
-- ✨ &nbsp;**Claude 101 and AI Fluency** — Anthropic
-- 🏆 &nbsp;Took part in the **Smart India Hackathon**
-
-<br/>
+- 📈 Master Financial Markets & Quantitative Trading
+- 🤖 Build AI-Powered Applications
+- 🧠 Learn System Design & Scalable Architectures
+- 🏗️ Create Real-World Projects
+- 🌍 Contribute to Open Source
+- 🚀 Build Products That Solve Real Problems
 
 ---
 
-<br/>
+# 🛠️ Tech Arsenal
 
-## &nbsp;Leadership
+### Languages
 
-I've helped run **Pragyaa**, my college's big yearly tech and culture fest, for three years. Each year I got a bigger role:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,sql"/>
+</p>
 
-- **2023–24** &nbsp;— &nbsp;Started as a Hospitality Trainee
-- **2024–25** &nbsp;— &nbsp;Became Joint Coordinator for Public Relations
-- **2025–26** &nbsp;— &nbsp;Now I'm the Hospitality and Guest Management Lead
+### Web Development
 
-I led teams, took care of guests, and worked with lots of different groups to pull off big events. I learned how to stay calm and get things done when everything is busy.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
 
-<br/>
+### AI & Data Science
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+- Machine Learning
+- Computer Vision
+- Bayesian Logic
+- Decision Trees
+- Data Analytics
+- Data Visualization
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-<br/>
+# 💼 Featured Projects
 
-## &nbsp;My GitHub Activity
+## 🎌 Anikator
+
+### Anime Character Guessing Engine
+
+Inspired by Akinator and 20Q.
+
+**Tech Stack**
+- Python
+- Bayesian Logic
+- Decision Trees
+- React
+
+**Highlights**
+- Intelligent question generation
+- Probabilistic reasoning
+- Character prediction system
+- End-to-end development
+
+---
+
+## 👔 AI Wardrobe Management System
+
+Smart fashion recommendation platform powered by AI.
+
+**Tech Stack**
+- Python
+- React
+- Computer Vision
+
+**Highlights**
+- Outfit recommendations
+- Personalized suggestions
+- Image-based analysis
+- Fashion-tech application
+
+---
+
+## 🎓 SkillSwap
+
+Peer-to-peer learning ecosystem.
+
+**Tech Stack**
+- Python
+- Streamlit
+- Pandas
+- JSON
+
+**Highlights**
+- Skill exchange platform
+- Student collaboration
+- Knowledge sharing
+- Community building
+
+---
+
+## 🍜 Recipe Generator
+
+Dynamic recipe recommendation application.
+
+**Tech Stack**
+- Java
+- APIs
+- OOP
+
+**Highlights**
+- Ingredient-based suggestions
+- External API integration
+- Scalable architecture
+- Modular design
+
+---
+
+# 🏆 Leadership Journey
+
+## Pragyaa Annual Socio Technical Fest
+
+### 2023 → 2026
+
+🔹 Hospitality Trainee
+
+🔹 Joint Coordinator – Public Relations
+
+🔹 Hospitality & Guest Management Lead
+
+### Skills Developed
+
+- Leadership
+- Public Relations
+- Event Management
+- Team Coordination
+- Guest Handling
+- Decision Making
+- Crisis Management
+
+---
+
+# 📜 Certifications
+
+🏅 Oracle Cloud Infrastructure AI Foundations Associate
+
+🏅 Oracle Generative AI Professional
+
+🏅 Claude 101 & AI Fluency
+
+🏅 Machine Learning For All
+
+🏅 Python & Statistics For Financial Analysis
+
+🏅 Data Structures & Algorithms
+
+🏅 Trading Strategies In Emerging Markets
+
+🏅 Using Python To Access Web Data
+
+---
+
+# 🎯 Interests
+
+<table>
+<tr>
+<td>📈 Trading</td>
+<td>🤖 Artificial Intelligence</td>
+</tr>
+
+<tr>
+<td>🚀 Entrepreneurship</td>
+<td>📊 Data Science</td>
+</tr>
+
+<tr>
+<td>🎮 Gaming Systems</td>
+<td>🧠 Psychology</td>
+</tr>
+
+<tr>
+<td>📚 EdTech</td>
+<td>♟️ Strategy</td>
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![Projects](https://img.shields.io/badge/Projects-04-ff7a3c?style=for-the-badge&labelColor=1a0e08)
-&nbsp;
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Finance-ffb56b?style=for-the-badge&labelColor=1a0e08)
-&nbsp;
-![Languages](https://img.shields.io/badge/Main-Python%2C%20Java%2C%20JS-ff7a3c?style=for-the-badge&labelColor=1a0e08)
-&nbsp;
-![Mode](https://img.shields.io/badge/Always-Building-3ecf8e?style=for-the-badge&labelColor=1a0e08)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dakshshinde130&show_icons=true&theme=tokyonight"/>
 
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=08080f&color=ffb56b&line=ff7a3c&point=f3ead9&area=true&hide_border=true&custom_title=My%20Activity%20Over%20Time"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshshinde130&layout=compact&theme=tokyonight"/>
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshshinde130&theme=tokyonight"/>
+
+</div>
 
 ---
 
-<br/>
-
-## &nbsp;Right Now
-
-- 🔭 &nbsp;Working on and improving my projects (they're up above)
-- 🌱 &nbsp;Learning more about AI and how to put it into real apps
-- 💸 &nbsp;Reading about finance, markets, and trading
-- 🤝 &nbsp;Looking for a job or internship where I can grow
-- 💬 &nbsp;Always happy to talk about a cool idea
-
-<br/>
-
----
-
-<br/>
-
-## &nbsp;Say Hi
-
-I'm looking for a job or internship. If you think I'd be a good fit for something, please reach out. I'm always happy to chat.
-
-<br/>
+# 🏅 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0e08?style=for-the-badge&logo=linkedin&logoColor=ffb56b)](https://linkedin.com/in/daksh-shinde)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1a0e08?style=for-the-badge&logo=github&logoColor=ffb56b)](https://github.com/Dakshinde130)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-1a0e08?style=for-the-badge&logo=gmail&logoColor=ffb56b)](mailto:dakshshinde007@email.com)
+<img src="https://github-profile-trophy.vercel.app/?username=dakshshinde130&theme=tokyonight&row=2&column=4"/>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:08080f,50:1a0e08,100:08080f&height=80&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%8D%9C&fontSize=18&fontColor=ffb56b&fontAlignY=68" width="100%"/>
+---
+
+# 🐍 Contribution Snake
+
+> Create `.github/workflows/snake.yml` later and this will automatically work.
+
+<div align="center">
+
+![Snake animation](https://github.com/dakshshinde130/dakshshinde130/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Python Advanced Concepts
+Machine Learning
+Computer Vision
+AI Engineering
+Quantitative Trading
+System Design
+Data Structures & Algorithms
+```
+
+---
+
+# 🌱 Philosophy
+
+> Discipline compounds.
+>
+> Skills compound.
+>
+> Capital compounds.
+>
+> The goal is to build all three.
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/daksh-shinde">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dakshshinde007@email.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building Today For The Freedom I Want Tomorrow ⚡
 
 </div>
