@@ -3,9 +3,9 @@
      Night-ramen palette · amber #ffb56b · ember #ff7a3c
 ═══════════════════════════════════════════════════════════ -->
 
-<!-- BANNER GIF -->
+<!-- BANNER GIF — push a GIF named "banner.gif" to your repo root to activate this -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/banner.gif" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/banner.gif" width="100%" alt="Banner" onerror="this.style.display='none'"/>
 </div>
 
 <!-- GLITCH NAME -->
@@ -66,14 +66,20 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Dakshinde130" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://dakshinde130.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7A3C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </div>
+
+---
+
+## 🔭 What I'm Doing Right Now
+
+- 🚀 &nbsp;Finalising **AniKator** and **SmartStyle AI** — pushing full repos live soon
+- 🌱 &nbsp;Going deeper on **AI engineering** — building systems meant for production, not demos
+- 💸 &nbsp;Studying **algorithmic trading strategies**, pairs trading, and market microstructure
+- 🤝 &nbsp;Actively looking for **internships & full-time roles** in AI/ML or full-stack
+- 💬 &nbsp;Always up for a good conversation — reach out anytime
 
 ---
 
@@ -133,7 +139,7 @@
 </tr>
 <tr>
   <td align="center" width="110">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br/><b>Open Source</b>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="65" height="65"/><br/><b>NumPy</b>
   </td>
   <td align="center" width="110">
     <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65"/><br/><b>Scikit-Learn</b>
@@ -312,12 +318,6 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
 
 <br/><br/>
 
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dakshinde130&theme=radical"/>
-&nbsp;
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dakshinde130&theme=radical"/>
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dakshinde130&theme=radical" width="100%"/>
 
 <br/>
@@ -329,59 +329,6 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dakshinde130&theme=radical" height="160"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dakshinde130&theme=radical&utcOffset=5.5" height="160"/>
-
-</div>
-
----
-
-## 🗣️ Languages I Code In
-
-<div align="center">
-
-<table>
-<tr>
-  <td align="center" width="150">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br/>
-    <b>Python</b><br/>
-    <img src="https://img.shields.io/badge/Primary-FFB56B?style=flat-square&labelColor=0D1117"/>
-  </td>
-  <td align="center" width="150">
-    <img src="https://skillicons.dev/icons?i=java" width="50"/><br/>
-    <b>Java</b><br/>
-    <img src="https://img.shields.io/badge/Strong-FF7A3C?style=flat-square&labelColor=0D1117"/>
-  </td>
-  <td align="center" width="150">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br/>
-    <b>JavaScript</b><br/>
-    <img src="https://img.shields.io/badge/Proficient-FFB56B?style=flat-square&labelColor=0D1117"/>
-  </td>
-  <td align="center" width="150">
-    <img src="https://skillicons.dev/icons?i=c" width="50"/><br/>
-    <b>C</b><br/>
-    <img src="https://img.shields.io/badge/Proficient-FF7A3C?style=flat-square&labelColor=0D1117"/>
-  </td>
-  <td align="center" width="150">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
-    <b>SQL</b><br/>
-    <img src="https://img.shields.io/badge/Working-FFB56B?style=flat-square&labelColor=0D1117"/>
-  </td>
-  <td align="center" width="150">
-    <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>
-    <b>HTML / CSS</b><br/>
-    <img src="https://img.shields.io/badge/Working-FF7A3C?style=flat-square&labelColor=0D1117"/>
-  </td>
-</tr>
-</table>
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -415,7 +362,6 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
 | 🐍 | Python Data Structures | University of Michigan |
 | 🐍 | Retrieving, Processing & Visualizing Data with Python | University of Michigan |
 | ✨ | Claude AI Fluency & Prompt Engineering | Anthropic |
-| 🌐 | Develop a Company Website with Wix | Coursera |
 | 🏆 | Smart India Hackathon Participant | Government of India |
 
 </div>
@@ -464,26 +410,10 @@ Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led 
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
-</div>
-
----
-
 <!-- 🕹️ PACMAN SNAKE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/pacman-contributions.svg" width="100%" alt="Pacman Snake"/>
 </div>
-
----
-
-## 🔭 What I'm Doing Right Now
-
-- 🔭 &nbsp;Polishing my projects and pushing more commits
-- 🌱 &nbsp;Going deeper on **AI engineering** — putting real models into production
-- 💸 &nbsp;Studying **quant strategies**, pairs trading, and market microstructure
-- 🤝 &nbsp;Actively looking for **jobs and internships** where I can grow fast
-- 💬 &nbsp;Always down to talk about a cool idea — just reach out
 
 ---
 
@@ -493,7 +423,9 @@ Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led 
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-1a0e08?style=for-the-badge&logo=github&logoColor=FFB56B)](https://github.com/Dakshinde130)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-1a0e08?style=for-the-badge&logo=gmail&logoColor=FFB56B)](mailto:dakshinde007@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-1a0e08?style=for-the-badge&logo=gmail&logoColor=FFB56B)](mailto:dakshinde007@gmail.com)
+&nbsp;&nbsp;
+[![College](https://img.shields.io/badge/College%20Mail-1a0e08?style=for-the-badge&logo=microsoftoutlook&logoColor=FFB56B)](mailto:2023bcs130@sggs.ac.in)
 &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a0e08?style=for-the-badge&logo=google-chrome&logoColor=FF7A3C)](https://dakshinde130.github.io)
 
