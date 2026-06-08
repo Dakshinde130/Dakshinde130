@@ -1,15 +1,14 @@
-<!-- 
-  GitHub Profile README — Dakshinde130
-  Style: abinasharma001 inspired, night-ramen palette
-  Icons: only real skillicons + techstack-generator sources
--->
+<!-- ═══════════════════════════════════════════════════════════
+     GitHub Profile README — Dakshinde130
+     Night-ramen palette · amber #ffb56b · ember #ff7a3c
+═══════════════════════════════════════════════════════════ -->
 
-<!-- TOP BANNER GIF — upload a file named "banner.gif" to your repo root -->
+<!-- BANNER GIF -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/banner.gif" width="100%" alt="Banner"/>
 </div>
 
-<!-- GLITCH NAME BANNER -->
+<!-- GLITCH NAME -->
 <div align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Daksh%20Shinde&width=800&height=200" width="800" alt="Daksh Shinde"/>
 </div>
@@ -85,105 +84,77 @@
 # 💻 My Favorite Tools & Technologies
 
 <div align="center">
-
-<!-- ROW 1: Core Languages -->
 <table>
 <tr>
   <td align="center" width="110">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br/>
-    <b>Python</b>
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br/><b>Python</b>
   </td>
   <td align="center" width="110">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br/>
-    <b>JavaScript</b>
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br/><b>JavaScript</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=java" width="65" height="65"/><br/>
-    <b>Java</b>
+    <img src="https://skillicons.dev/icons?i=java" width="65" height="65"/><br/><b>Java</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=c" width="65" height="65"/><br/>
-    <b>C</b>
+    <img src="https://skillicons.dev/icons?i=c" width="65" height="65"/><br/><b>C</b>
   </td>
   <td align="center" width="110">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br/>
-    <b>React</b>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br/><b>React</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65"/><br/>
-    <b>Supabase</b>
+    <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65"/><br/><b>Supabase</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65"/><br/>
-    <b>MySQL</b>
+    <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65"/><br/><b>MySQL</b>
   </td>
 </tr>
-
-<!-- ROW 2: Tools & DevOps -->
 <tr>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=git" width="65" height="65"/><br/>
-    <b>Git</b>
+    <img src="https://skillicons.dev/icons?i=git" width="65" height="65"/><br/><b>Git</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=github" width="65" height="65"/><br/>
-    <b>GitHub</b>
+    <img src="https://skillicons.dev/icons?i=github" width="65" height="65"/><br/><b>GitHub</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/><br/>
-    <b>VS Code</b>
+    <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/><br/><b>VS Code</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=postman" width="65" height="65"/><br/>
-    <b>Postman</b>
+    <img src="https://skillicons.dev/icons?i=postman" width="65" height="65"/><br/><b>Postman</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=html" width="65" height="65"/><br/>
-    <b>HTML5</b>
+    <img src="https://skillicons.dev/icons?i=html" width="65" height="65"/><br/><b>HTML5</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=css" width="65" height="65"/><br/>
-    <b>CSS</b>
+    <img src="https://skillicons.dev/icons?i=css" width="65" height="65"/><br/><b>CSS</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=linux" width="65" height="65"/><br/>
-    <b>Linux</b>
+    <img src="https://skillicons.dev/icons?i=linux" width="65" height="65"/><br/><b>Linux</b>
   </td>
 </tr>
-
-<!-- ROW 3: AI/ML & Data -->
 <tr>
   <td align="center" width="110">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br/>
-    <b>Open Source</b>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br/><b>Open Source</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65"/><br/>
-    <b>Scikit-Learn</b>
+    <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65"/><br/><b>Scikit-Learn</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65"/><br/>
-    <b>OpenCV</b>
+    <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65"/><br/><b>OpenCV</b>
   </td>
   <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65"/><br/>
-    <b>Pandas</b>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65"/><br/><b>Pandas</b>
   </td>
   <td align="center" width="110">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="65" height="65"/><br/>
-    <b>Streamlit</b>
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="65" height="65"/><br/><b>Streamlit</b>
   </td>
   <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" width="65" height="65" style="filter:invert(80%) sepia(50%) saturate(400%) hue-rotate(5deg);"/><br/>
-    <b>Ollama</b>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" width="65" height="65"/><br/><b>Ollama</b>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65"/><br/>
-    <b>GCP</b>
+    <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65"/><br/><b>GCP</b>
   </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -194,11 +165,9 @@
 
 # 🚀 Projects I'm Proud Of
 
-<br/>
-
 ---
 
-### 🎯 &nbsp; AniKator &nbsp; — &nbsp; *The AI That Can Read Your Mind*
+### 🎯 AniKator — *The AI That Can Read Your Mind*
 
 > **"Think of any anime character. I'll figure out who you picked."**
 
@@ -208,7 +177,7 @@
 
 AniKator is an **Akinator-style guessing game** for anime fans, powered by **Bayesian inference** and **Decision Trees**. You think of a character from a dataset of **1000+ anime characters** — AniKator asks targeted yes/no questions and narrows down the answer using probability math, not brute force.
 
-Every question it asks is the *statistically optimal* question — the one that eliminates the most possibilities at once. The more you play, the smarter the logic feels.
+Every question it asks is the *statistically optimal* one — the one that eliminates the most possibilities at once. The more you play, the smarter the logic feels.
 
 **What makes it different:**
 - 🧠 Pure math, no hardcoded logic trees
@@ -218,14 +187,10 @@ Every question it asks is the *statistically optimal* question — the one that 
 
 </td>
 <td width="35%" align="center">
-
-<img src="https://media1.tenor.com/m/xRUyjk6zCSIAAAAd/bleach-ichigo.gif" width="200" alt="Ichigo confused — AniKator"/>
-
+<img src="https://media1.tenor.com/m/xRUyjk6zCSIAAAAd/bleach-ichigo.gif" width="200" alt="AniKator"/>
 </td>
 </tr>
 </table>
-
-<div>
 
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFB56B)
 ![Bayesian](https://img.shields.io/badge/Bayesian_Inference-20232A?style=for-the-badge&logoColor=FF7A3C)
@@ -235,26 +200,20 @@ Every question it asks is the *statistically optimal* question — the one that 
 
 [![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/anikator)
 
-</div>
-
-<br/>
-
 ---
 
-### 👗 &nbsp; SmartStyle AI &nbsp; — &nbsp; *Your Family's AI Fashion Assistant*
+### 👗 SmartStyle AI — *Your Family's AI Fashion Assistant*
 
 > **"Never stare at your wardrobe wondering what to wear again."**
 
 <table>
 <tr>
 <td width="35%" align="center">
-
-<img src="https://media1.tenor.com/m/Cy8zIi3BluwAAAAd/chico-lachowski-mog.gif" width="180" alt="SmartStyle — Style"/>
-
+<img src="https://media1.tenor.com/m/Cy8zIi3BluwAAAAd/chico-lachowski-mog.gif" width="180" alt="SmartStyle"/>
 </td>
 <td width="65%">
 
-SmartStyle is a **full-stack AI wardrobe management app** that goes beyond just storing clothes. It uses **computer vision** to recognize clothing items, suggests outfits based on occasion and preferences, and works for a single person, a couple, or an entire family under one account.
+SmartStyle is a **full-stack AI wardrobe management app** that uses **computer vision** to recognize clothing items, suggests outfits based on occasion and preferences, and works for a single person, a couple, or an entire family under one account.
 
 Built with a secure **OTP-based login flow via Supabase** — no passwords to remember, no security compromises. The cloud backend means your wardrobe goes wherever you do.
 
@@ -268,8 +227,6 @@ Built with a secure **OTP-based login flow via Supabase** — no passwords to re
 </tr>
 </table>
 
-<div>
-
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFB56B)
 ![OpenCV](https://img.shields.io/badge/Computer_Vision-20232A?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -277,13 +234,9 @@ Built with a secure **OTP-based login flow via Supabase** — no passwords to re
 
 [![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/SmartStyle-AI-based-Family-Wardrobe-and-Outfit-Recommendation-System)
 
-</div>
-
-<br/>
-
 ---
 
-### 🔄 &nbsp; SkillSwap &nbsp; — &nbsp; *The Student Knowledge Exchange*
+### 🔄 SkillSwap — *The Student Knowledge Exchange*
 
 > **"You know something I don't. I know something you don't. Let's trade."**
 
@@ -291,9 +244,7 @@ Built with a secure **OTP-based login flow via Supabase** — no passwords to re
 <tr>
 <td width="65%">
 
-SkillSwap is a **peer-to-peer learning platform** built on a simple but powerful idea: college students are massively underutilized as teachers. You post a skill you can teach, browse skills you want to learn, and connect — no money, no tutors, just students helping students.
-
-The app handles matching, listings, and session coordination. It was born from a real frustration: paying for courses when the person sitting two rows behind you already knows everything you're trying to learn.
+SkillSwap is a **peer-to-peer learning platform** built on a simple but powerful idea: college students are massively underutilized as teachers. Post a skill you can teach, browse skills you want to learn, and connect — no money, no tutors, just students helping students.
 
 **The vision:**
 - 🔁 Skill barter — teach one, learn one
@@ -303,14 +254,10 @@ The app handles matching, listings, and session coordination. It was born from a
 
 </td>
 <td width="35%" align="center">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="SkillSwap"/>
-
 </td>
 </tr>
 </table>
-
-<div>
 
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFB56B)
 ![Streamlit](https://img.shields.io/badge/Streamlit-20232A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
@@ -318,28 +265,20 @@ The app handles matching, listings, and session coordination. It was born from a
 
 [![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/skillswap)
 
-</div>
-
-<br/>
-
 ---
 
-### 🍳 &nbsp; Recipe Generator &nbsp; — &nbsp; *Ingredients In, Dinner Out*
+### 🍳 Recipe Generator — *Ingredients In, Dinner Out*
 
 > **"Tell it what's in your fridge. It figures out the rest."**
 
 <table>
 <tr>
 <td width="35%" align="center">
-
-<img src="https://media1.tenor.com/m/NgYG-uaOsEAAAAAd/anime-food.gif" width="220" alt="Recipe Generator — Anime Food"/>
-
+<img src="https://media1.tenor.com/m/NgYG-uaOsEAAAAAd/anime-food.gif" width="220" alt="Recipe Generator"/>
 </td>
 <td width="65%">
 
 A **Java-based recipe discovery app** that takes what you have — ingredients, dietary preferences, or a craving — and returns recipes via live API calls. The focus was on writing genuinely **clean, extensible OOP code**: every component is modular, every method does one thing well.
-
-This isn't a flashy project — it's a disciplined one. The kind of codebase you can hand to someone else and they actually understand it.
 
 **The engineering:**
 - ☕ Java with clean OOP architecture
@@ -351,17 +290,11 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 </tr>
 </table>
 
-<div>
-
 ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=FFB56B)
 ![REST API](https://img.shields.io/badge/REST_APIs-20232A?style=for-the-badge&logoColor=FF7A3C)
 ![OOP](https://img.shields.io/badge/OOP_Design-20232A?style=for-the-badge&logoColor=FF7A3C)
 
 [![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/recipe-generator)
-
-</div>
-
-<br/>
 
 ---
 
@@ -373,14 +306,12 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 
 <div align="center">
 
-<!-- STREAK -->
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Dakshinde130&theme=radical&hide_border=false&border_radius=10&fire=FFB56B&ring=FF7A3C&currStreakLabel=FFB56B&sideLabels=FFB56B&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&stroke=FF7A3C&dates=9B9B9B&card_width=500" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<!-- STATS + TOP LANGS using &amp; to avoid markdown parse issues -->
 <a href="https://github.com/Dakshinde130">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FFB56B&icon_color=FF7A3C&text_color=FFFFFF&bg_color=0D1117&hide_border=false&border_radius=10"/>
 </a>
@@ -391,7 +322,6 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 
 <br/><br/>
 
-<!-- PROFILE SUMMARY CARDS — 4 panel row -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dakshinde130&theme=radical" width="100%"/>
 
 <br/>
@@ -406,17 +336,11 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 
 </div>
 
-<br/>
-
 ---
 
 ## 🗣️ Languages I Code In
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,21&height=2&width=100%25"/>
-
-<br/>
 
 <table>
 <tr>
@@ -455,7 +379,6 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 
 <br/>
 
-<!-- Coloured language pills -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -463,8 +386,6 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,21&height=2&width=100%25"/>
 
 </div>
 
@@ -547,12 +468,13 @@ Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led 
 
 ---
 
-<!-- 3D CONTRIBUTION GRAPH — auto-generated by GitHub Actions (setup in comments below) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
 </div>
 
-<!-- PACMAN SNAKE — auto-generated by GitHub Actions -->
+---
+
+<!-- 🕹️ PACMAN SNAKE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/pacman-contributions.svg" width="100%" alt="Pacman Snake"/>
 </div>
@@ -588,62 +510,3 @@ Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:1a0e08,100:ff7a3c&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20🍜&fontSize=20&fontColor=ffb56b&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
-
----
-
-<!--
-====================================================
-⚙️  GITHUB ACTIONS SETUP (for 3D graph + Pacman snake)
-====================================================
-
-── 1. 3D CONTRIBUTION GRAPH ──────────────────────
-File: .github/workflows/profile-3d.yml
-
-name: GitHub-Profile-3D-Contrib
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Dakshinde130
-      - run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add -A
-          git commit -m "Update 3D graph" || true
-          git push
-
-── 2. PACMAN SNAKE ───────────────────────────────
-File: .github/workflows/snake.yml
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Dakshinde130
-          outputs: |
-            pacman-contributions.svg?palette=github-dark&color_snake=ff7a3c
-      - uses: actions/upload-artifact@v3
-        with:
-          name: pacman
-          path: pacman-contributions.svg
-
-── 3. BANNER GIF ─────────────────────────────────
-Upload any anime/coding GIF as "banner.gif" to your repo root.
-Find one at: https://giphy.com/search/coding-anime
-====================================================
--->
