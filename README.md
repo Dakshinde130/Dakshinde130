@@ -312,13 +312,9 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
 
 <br/><br/>
 
-<a href="https://github.com/Dakshinde130">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FFB56B&icon_color=FF7A3C&text_color=FFFFFF&bg_color=0D1117&hide_border=false&border_radius=10"/>
-</a>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dakshinde130&theme=radical"/>
 &nbsp;
-<a href="https://github.com/Dakshinde130">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&langs_count=8&theme=radical&title_color=FFB56B&text_color=FFFFFF&bg_color=0D1117&hide_border=false&border_radius=10&hide=Jupyter%20Notebook"/>
-</a>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dakshinde130&theme=radical"/>
 
 <br/><br/>
 
