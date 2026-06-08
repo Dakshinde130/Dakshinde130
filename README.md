@@ -332,7 +332,7 @@ The app handles matching, listings, and session coordination. It was born from a
 <tr>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="200" alt="Recipe Generator"/>
+<img src="https://media1.tenor.com/m/NgYG-uaOsEAAAAAd/anime-food.gif" width="220" alt="Recipe Generator — Anime Food"/>
 
 </td>
 <td width="65%">
@@ -373,43 +373,98 @@ This isn't a flashy project — it's a disciplined one. The kind of codebase you
 
 <div align="center">
 
-<!-- STREAK — most stable provider -->
-<img src="https://streak-stats.demolab.com?user=Dakshinde130&theme=radical&hide_border=false&border_radius=10&fire=FFB56B&ring=FF7A3C&currStreakLabel=FFB56B&sideLabels=FFB56B&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&stroke=FF7A3C&dates=9B9B9B" alt="GitHub Streak"/>
+<!-- STREAK -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Dakshinde130&theme=radical&hide_border=false&border_radius=10&fire=FFB56B&ring=FF7A3C&currStreakLabel=FFB56B&sideLabels=FFB56B&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&stroke=FF7A3C&dates=9B9B9B&card_width=500" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<!-- STATS + TOP LANGS side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=FFB56B&icon_color=FF7A3C&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800" alt="Daksh's GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&theme=radical&hide_border=false&layout=compact&langs_count=8&title_color=FFB56B&text_color=FFFFFF&bg_color=0D1117&hide=Jupyter%20Notebook&cache_seconds=1800" alt="Top Languages" height="180"/>
+<!-- STATS + TOP LANGS using &amp; to avoid markdown parse issues -->
+<a href="https://github.com/Dakshinde130">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FFB56B&icon_color=FF7A3C&text_color=FFFFFF&bg_color=0D1117&hide_border=false&border_radius=10"/>
+</a>
+&nbsp;
+<a href="https://github.com/Dakshinde130">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&langs_count=8&theme=radical&title_color=FFB56B&text_color=FFFFFF&bg_color=0D1117&hide_border=false&border_radius=10&hide=Jupyter%20Notebook"/>
+</a>
 
 <br/><br/>
 
-<!-- LANGUAGE SKILL BARS — styled & stunning -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&width=100%25"/>
+<!-- PROFILE SUMMARY CARDS — 4 panel row -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dakshinde130&theme=radical" width="100%"/>
 
 <br/>
 
-**`🐍 Python`** &nbsp;
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-95%25-FFB56B?style=flat-square&labelColor=0D1117&color=FFB56B)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dakshinde130&theme=radical" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dakshinde130&theme=radical" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dakshinde130&theme=radical" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dakshinde130&theme=radical&utcOffset=5.5" height="160"/>
 
-**`☕ Java`** &nbsp;&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░-78%25-FF7A3C?style=flat-square&labelColor=0D1117&color=FF7A3C)
+</div>
 
-**`🌐 JavaScript`**
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░-65%25-FFB56B?style=flat-square&labelColor=0D1117&color=FFB56B)
+<br/>
 
-**`⚙️ C`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-60%25-FF7A3C?style=flat-square&labelColor=0D1117&color=FF7A3C)
+---
 
-**`🗄️ SQL`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-55%25-FFB56B?style=flat-square&labelColor=0D1117&color=FFB56B)
+## 🗣️ Languages I Code In
 
-**`🎨 HTML/CSS`**
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░░░░░░░░░░░-50%25-FF7A3C?style=flat-square&labelColor=0D1117&color=FF7A3C)
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,21&height=2&width=100%25"/>
+
+<br/>
+
+<table>
+<tr>
+  <td align="center" width="150">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br/>
+    <b>Python</b><br/>
+    <img src="https://img.shields.io/badge/Primary-FFB56B?style=flat-square&labelColor=0D1117"/>
+  </td>
+  <td align="center" width="150">
+    <img src="https://skillicons.dev/icons?i=java" width="50"/><br/>
+    <b>Java</b><br/>
+    <img src="https://img.shields.io/badge/Strong-FF7A3C?style=flat-square&labelColor=0D1117"/>
+  </td>
+  <td align="center" width="150">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br/>
+    <b>JavaScript</b><br/>
+    <img src="https://img.shields.io/badge/Proficient-FFB56B?style=flat-square&labelColor=0D1117"/>
+  </td>
+  <td align="center" width="150">
+    <img src="https://skillicons.dev/icons?i=c" width="50"/><br/>
+    <b>C</b><br/>
+    <img src="https://img.shields.io/badge/Proficient-FF7A3C?style=flat-square&labelColor=0D1117"/>
+  </td>
+  <td align="center" width="150">
+    <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
+    <b>SQL</b><br/>
+    <img src="https://img.shields.io/badge/Working-FFB56B?style=flat-square&labelColor=0D1117"/>
+  </td>
+  <td align="center" width="150">
+    <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>
+    <b>HTML / CSS</b><br/>
+    <img src="https://img.shields.io/badge/Working-FF7A3C?style=flat-square&labelColor=0D1117"/>
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Coloured language pills -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,21&height=2&width=100%25"/>
 
 </div>
 
