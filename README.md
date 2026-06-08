@@ -39,9 +39,9 @@
 
 # 🏄‍♂️ Daksh Shinde
 
-<img align="right" src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/22b22287602523.5dbd29081561d.gif" width="280" alt="Lofi Pixel Art"/>
-
 ## 💫 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/22b22287602523.5dbd29081561d.gif" width="400" alt="Lofi Pixel Art"/>
 
 - 🎓 **B.Tech CS + Data Science Minor** @ SGGS Institute, Nanded *(2023–2027)*
 - 🤖 I build with **AI & ML** — and I care that it actually works, not just demos well
