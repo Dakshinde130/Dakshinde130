@@ -8,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/banner.gif" width="100%" alt="Banner" onerror="this.style.display='none'"/>
 </div>
 
-<!-- NAME BANNER (liquid-glass) — commit assets/name-banner.svg to this repo for it to render -->
+<!-- NAME BANNER (liquid-glass) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/assets/name-banner.svg" width="100%" alt="Daksh Shinde — Quant Finance · AI Engineering · CS @ SGGS" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/name-banner.svg" width="100%" alt="Daksh Shinde — Quant Finance · AI Engineering · CS @ SGGS"/>
 </div>
 
 <!-- TYPING SVG -->
@@ -488,7 +488,7 @@ Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led 
 # ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/assets/quote-card.svg" width="80%" alt="The market can stay irrational longer than you can stay solvent. — John Maynard Keynes" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/quote-card.svg" width="80%" alt="The market can stay irrational longer than you can stay solvent. — John Maynard Keynes"/>
 </div>
 
 ---
