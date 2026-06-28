@@ -8,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/banner.gif" width="100%" alt="Banner" onerror="this.style.display='none'"/>
 </div>
 
-<!-- GLITCH NAME -->
+<!-- NAME BANNER (liquid-glass) — commit assets/name-banner.svg to this repo for it to render -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Daksh%20Shinde&width=800&height=200" width="800" alt="Daksh Shinde"/>
+  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/assets/name-banner.svg" width="100%" alt="Daksh Shinde — Quant Finance · AI Engineering · CS @ SGGS" onerror="this.style.display='none'"/>
 </div>
 
 <!-- TYPING SVG -->
@@ -413,23 +413,13 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Dakshinde130&theme=radical&hide_border=false&border_radius=10&fire=FFB56B&ring=FF7A3C&currStreakLabel=FFB56B&sideLabels=FFB56B&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&stroke=FF7A3C&dates=9B9B9B&card_width=500" alt="GitHub Streak"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff7a3c&icon_color=ffb56b&text_color=c9d1d9&bg_color=30,0d1117,141019,1a0e08" height="170" alt="Daksh's GitHub stats"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Dakshinde130&hide_border=true&border_radius=14&background=0D1117&stroke=1A0E08&ring=FF7A3C&fire=FFB56B&currStreakLabel=FFB56B&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFB56B&sideNums=FFFFFF" height="170" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dakshinde130&theme=radical" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dakshinde130&theme=radical" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dakshinde130&theme=radical" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dakshinde130&theme=radical" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dakshinde130&theme=radical&utcOffset=5.5" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&hide_border=true&title_color=ff7a3c&text_color=c9d1d9&bg_color=30,0d1117,141019,1a0e08&langs_count=8" height="165" alt="Top languages"/>
 
 </div>
 
@@ -498,7 +488,7 @@ Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led 
 # ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/assets/quote-card.svg" width="80%" alt="The market can stay irrational longer than you can stay solvent. — John Maynard Keynes" onerror="this.style.display='none'"/>
 </div>
 
 ---
