@@ -173,6 +173,107 @@
 
 ---
 
+### 📊 Monte Carlo Trading Simulator — *A Thousand Futures for Every Stock*
+
+> **"Markets are random. So I simulated a thousand versions of tomorrow — and stress-tested every strategy against all of them."**
+
+<table>
+<tr>
+<td width="65%">
+
+An **8-page Streamlit quant lab** that generates **1,000+ price paths** per asset across **7 stochastic models**, then backtests strategies and scores their risk the way a real trading desk would. This is the project that taught me how serious quant tooling is actually built.
+
+**What's under the hood:**
+- 🎲 **7 stochastic engines** — GBM, Heston, Merton-jump, Kou, regime-switching, Student-t & historical bootstrap
+- 📉 **9 strategies** backtested with VaR, CVaR, Sharpe & Sortino
+- 🧮 Efficient frontier + **Black–Scholes** options pricing
+- ✅ **83 pytest tests** guarding every number
+
+</td>
+<td width="35%" align="center">
+<img src="https://media1.tenor.com/m/xRUyjk6zCSIAAAAd/bleach-ichigo.gif" width="200" alt="Monte Carlo Trading Simulator"/>
+</td>
+</tr>
+</table>
+
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFB56B)
+![NumPy](https://img.shields.io/badge/NumPy-20232A?style=for-the-badge&logo=numpy&logoColor=FF7A3C)
+![Streamlit](https://img.shields.io/badge/Streamlit-20232A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![yfinance](https://img.shields.io/badge/yfinance-20232A?style=for-the-badge&logoColor=FFB56B)
+![matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logoColor=FF7A3C)
+![pytest](https://img.shields.io/badge/pytest-20232A?style=for-the-badge&logo=pytest&logoColor=FFB56B)
+
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/monte-carlo-trading-simulator)
+
+---
+
+### 📈 TradeSim Pro — *Backtest Three Years in Three Seconds*
+
+> **"Upload a Python strategy. Watch it trade real market history on charts that look like a trading terminal."**
+
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="https://media1.tenor.com/m/Cy8zIi3BluwAAAAd/chico-lachowski-mog.gif" width="190" alt="TradeSim Pro"/>
+</td>
+<td width="65%">
+
+A **full-stack strategy backtester**: a Python engine feeds **real Yahoo Finance OHLCV** into a dark-theme JavaScript front-end built to feel like a pro trading desk. Bring your own strategy, hit run, read the results like a quant.
+
+**The toolkit:**
+- 🕯️ Candlestick charts, equity curves & a **monthly P&L heatmap**
+- ⚙️ Parameter optimizer + P&L distribution analysis
+- 🐍 Drop in your **own Python strategy file**
+- 🇺🇸🇮🇳 US & Indian markets, with offline simulated-data fallback
+
+</td>
+</tr>
+</table>
+
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFB56B)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=FF7A3C)
+![pandas](https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=FFB56B)
+![NumPy](https://img.shields.io/badge/NumPy-20232A?style=for-the-badge&logo=numpy&logoColor=FF7A3C)
+![yfinance](https://img.shields.io/badge/yfinance-20232A?style=for-the-badge&logoColor=FFB56B)
+
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/tradesim-pro)
+
+---
+
+### 🛰️ Trading AI — *Your TradingView Chart, Read by a Machine*
+
+> **"It watches the symbol you're on and hands back a full trade plan — entry, stops, targets, conviction."**
+
+<table>
+<tr>
+<td width="65%">
+
+A **Firefox extension wired to a Python backend** that reads live TradingView symbols and returns multi-timeframe trading signals across **10 timeframes** — for crypto, forex, and Indian equities. Market-structure analysis, automated.
+
+**What it spots:**
+- 🧱 Auto-detected **order blocks** & support/resistance zones
+- 🇮🇳 **NIFTY 50 + India VIX** market-bias read
+- 🎯 Confluence trade plan: **Entry, SL, TP1–TP3 + conviction score**
+- ₿ Works across crypto, forex & Indian stocks
+
+</td>
+<td width="35%" align="center">
+<img src="https://media1.tenor.com/m/NgYG-uaOsEAAAAAd/anime-food.gif" width="200" alt="Trading AI"/>
+</td>
+</tr>
+</table>
+
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFB56B)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Firefox Extension](https://img.shields.io/badge/Firefox_Extension-20232A?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7A3C)
+![ccxt](https://img.shields.io/badge/ccxt-20232A?style=for-the-badge&logoColor=FFB56B)
+![yfinance](https://img.shields.io/badge/yfinance-20232A?style=for-the-badge&logoColor=FFB56B)
+
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/trading-ai)
+
+---
+
 ### 🎯 AniKator — *The AI That Can Read Your Mind*
 
 > **"Think of any anime character. I'll figure out who you picked."**
