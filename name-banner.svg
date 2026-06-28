@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Daksh Shinde — Quant Finance, AI Engineering, CS @ SGGS">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c0c16"/>
+      <stop offset="1" stop-color="#06060f"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe2bd"/>
+      <stop offset="0.45" stop-color="#ffb56b"/>
+      <stop offset="1" stop-color="#ff7a3c"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.03"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="bA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff7a3c" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ff7a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb56b" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffb56b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bD" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#b86bff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#b86bff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <clipPath id="round"><rect x="0" y="0" width="1200" height="300" rx="30"/></clipPath>
+    <clipPath id="panelClip"><rect x="36" y="40" width="1128" height="220" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect x="0" y="0" width="1200" height="300" fill="url(#bg)"/>
+
+    <!-- liquid blobs -->
+    <g filter="url(#soft)">
+      <circle cx="250" cy="120" r="155" fill="url(#bA)">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 55 28; -22 48; 0 0" dur="13s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="155;175;150;155" dur="13s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="965" cy="175" r="165" fill="url(#bB)">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -48 -24; 28 -42; 0 0" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="165;150;180;165" dur="15s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="620" cy="55" r="120" fill="url(#bC)">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 38 40; -38 18; 0 0" dur="17s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="700" cy="255" r="130" fill="url(#bD)">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -30 -38; 40 -10; 0 0" dur="19s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- frosted glass panel -->
+    <rect x="36" y="40" width="1128" height="220" rx="28" fill="url(#sheen)" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.5"/>
+    <rect x="48" y="46" width="1104" height="58" rx="22" fill="url(#hl)" opacity="0.45"/>
+
+    <!-- shimmer sweep -->
+    <g clip-path="url(#panelClip)">
+      <rect x="-400" y="40" width="280" height="220" fill="url(#shine)" transform="skewX(-18)">
+        <animate attributeName="x" values="-400; 1320" dur="6.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- name (glow layer + crisp layer) -->
+    <text x="600" y="158" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="80" font-weight="800" fill="url(#name)" filter="url(#glow)" opacity="0.55">Daksh Shinde</text>
+    <text x="600" y="158" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="80" font-weight="800" letter-spacing="1.5" fill="url(#name)">Daksh Shinde</text>
+
+    <!-- subtitle -->
+    <text x="600" y="206" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="4" fill="#cbb9a6">QUANT FINANCE &#160;·&#160; AI ENGINEERING &#160;·&#160; CS @ SGGS</text>
+
+    <!-- accent dots -->
+    <circle cx="600" cy="234" r="3" fill="#ff7a3c"/>
+    <circle cx="578" cy="234" r="2.5" fill="#ffb56b" opacity="0.6"/>
+    <circle cx="622" cy="234" r="2.5" fill="#ffb56b" opacity="0.6"/>
+  </g>
+</svg>
