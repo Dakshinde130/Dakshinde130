@@ -496,7 +496,7 @@ Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led 
 # 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=0d1117&color=ffb56b&line=ff7a3c&point=f3ead9&area=true&hide_border=true&custom_title=Daksh%27s%20Contribution%20Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=0d1117&hide_border=true&radius=20&area=true&area_color=ff7a3c&line=ff7a3c&point=ffe2bd&color=b9a896&title_color=ffb56b&custom_title=Daksh%27s%20Contribution%20Graph"/>
 </div>
 
 ---
