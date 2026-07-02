@@ -413,13 +413,13 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff7a3c&icon_color=ffb56b&text_color=c9d1d9&bg_color=30,0d1117,141019,1a0e08" height="170" alt="Daksh's GitHub stats"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=Dakshinde130&hide_border=true&border_radius=14&background=0D1117&stroke=1A0E08&ring=FF7A3C&fire=FFB56B&currStreakLabel=FFB56B&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFB56B&sideNums=FFFFFF" height="170" alt="GitHub streak"/>
+<img height="185" alt="Daksh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=6&border_color=30363d&bg_color=0d1117&title_color=ff7a3c&icon_color=ffb56b&text_color=c9d1d9&ring_color=ff7a3c&custom_title=Daksh%27s%20GitHub%20Stats"/>
+&nbsp;&nbsp;
+<img height="185" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Dakshinde130&border_radius=6&border=30363d&background=0d1117&stroke=1a0e08&ring=ff7a3c&fire=ffb56b&currStreakLabel=ffb56b&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffb56b&sideNums=ffffff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&hide_border=true&title_color=ff7a3c&text_color=c9d1d9&bg_color=30,0d1117,141019,1a0e08&langs_count=8" height="165" alt="Top languages"/>
+<img width="470" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=donut&border_radius=6&border_color=30363d&bg_color=0d1117&title_color=ff7a3c&text_color=c9d1d9&langs_count=8&custom_title=Most%20Used%20Languages"/>
 
 </div>
 
