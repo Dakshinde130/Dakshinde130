@@ -413,6 +413,84 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08080f,50:1a0e08,100:ff7a3c&height=68&section=header&text=Experience%20%E2%80%94%20Internships&fontSize=32&fontColor=ffb56b&fontAlignY=55"/>
+</div>
+
+<div align="center">
+
+> *Two internships, two different worlds — capital markets and search. Both taught me how real teams actually ship.*
+
+</div>
+
+---
+
+### Finance & Stock Market Intern-Trainee — *CertiWise Hub*
+
+**June 2026**
+
+> **"Learning how capital actually moves — from portfolio theory to the trade ticket."**
+
+<table>
+<tr>
+<td width="65%">
+
+Hands-on immersion in **financial & investment markets** — the mechanics behind mutual funds, NPS, fixed deposits, and tax-saving instruments, plus the **portfolio & risk management** thinking that ties them all together.
+
+**On the desk:**
+- Building exposure across **mutual funds, NPS, FDs & tax-saving instruments** plus core portfolio & risk concepts
+- Developing a personal **Investment Policy Statement (IPS)** with structured stock-selection criteria & planning strategies
+- **Performance tracking** — analysing campaign metrics as part of a structured evaluation
+
+</td>
+<td width="35%" align="center">
+<img src="https://media1.tenor.com/m/wWvt6qEQB8EAAAAd/kah.gif" width="200" alt="Finance Internship"/>
+</td>
+</tr>
+</table>
+
+![Financial Markets](https://img.shields.io/badge/Financial_Markets-20232A?style=for-the-badge&logoColor=FFB56B)
+![Portfolio Management](https://img.shields.io/badge/Portfolio_Management-20232A?style=for-the-badge&logoColor=FF7A3C)
+![Risk Management](https://img.shields.io/badge/Risk_Management-20232A?style=for-the-badge&logoColor=FF7A3C)
+![Investment Planning](https://img.shields.io/badge/Investment_Planning-20232A?style=for-the-badge&logoColor=FFB56B)
+
+---
+
+### SEO Intern — *Godecor Technologies Pvt Ltd*
+
+**Sept 2024 – Oct 2024**
+
+> **"Made pages findable — keyword research, audits, and the backlinks that actually move rankings."**
+
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="https://media1.tenor.com/m/-ZEBk9deJ9EAAAAd/what-the-sigma-cat-cat-reaction.gif" width="190" alt="SEO Internship"/>
+</td>
+<td width="65%">
+
+Worked the **search-visibility** side of digital growth: research, audits, and optimisation aimed at lifting organic reach across the company's digital assets.
+
+**What I did:**
+- Ran **keyword research, on-page optimisation & SEO audits** to grow search visibility and organic reach
+- Analysed **website performance metrics**, built high-quality backlinks & drove outreach initiatives
+- Stayed current on evolving SEO trends through ongoing team discussions
+
+</td>
+</tr>
+</table>
+
+![SEO](https://img.shields.io/badge/SEO-20232A?style=for-the-badge&logoColor=FFB56B)
+![Web Analytics](https://img.shields.io/badge/Web_Analytics-20232A?style=for-the-badge&logoColor=FF7A3C)
+![Content Optimization](https://img.shields.io/badge/Content_Optimization-20232A?style=for-the-badge&logoColor=FF7A3C)
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-20232A?style=for-the-badge&logoColor=FFB56B)
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
 # GitHub Stats
 
 <div align="center">
@@ -537,3 +615,4 @@ Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:1a0e08,100:ff7a3c&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffb56b&fontAlignY=70&animation=fadeIn" width="100%"/>
+</div>
