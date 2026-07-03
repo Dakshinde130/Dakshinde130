@@ -516,7 +516,7 @@ Worked the **search-visibility** side of digital growth: research, audits, and o
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=4&row=2" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=gruvbox&no-frame=false&no-bg=true&margin-w=6&column=4&row=2" alt="GitHub Trophies"/>
 </div>
 
 ---
