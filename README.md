@@ -444,7 +444,7 @@ Hands-on immersion in **financial & investment markets** — the mechanics behin
 
 </td>
 <td width="35%" align="center">
-<img src="https://media1.tenor.com/m/wWvt6qEQB8EAAAAd/kah.gif" width="200" alt="Finance Internship"/>
+<img src="https://media1.tenor.com/m/MeXxoUFWX2cAAAAd/3d-stock-market.gif" width="200" alt="Finance Internship"/>
 </td>
 </tr>
 </table>
