@@ -1,33 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Random developer quote">
-<defs>
-<linearGradient id="qbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c0c16"/><stop offset="1" stop-color="#06060f"/></linearGradient>
-<linearGradient id="qsheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.09"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.03"/></linearGradient>
-<linearGradient id="qhl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.42"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
-<linearGradient id="qaccent" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb56b"/><stop offset="1" stop-color="#ff7a3c"/></linearGradient>
-<linearGradient id="qshine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.11"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
-<radialGradient id="qa" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ff7a3c" stop-opacity="0.85"/><stop offset="1" stop-color="#ff7a3c" stop-opacity="0"/></radialGradient>
-<radialGradient id="qb" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.45"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
-<radialGradient id="qc" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffb56b" stop-opacity="0.6"/><stop offset="1" stop-color="#ffb56b" stop-opacity="0"/></radialGradient>
-<filter id="qsoft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
-<clipPath id="qround"><rect x="0" y="0" width="1000" height="300" rx="26"/></clipPath>
-<clipPath id="qpanelClip"><rect x="30" y="34" width="940" height="232" rx="24"/></clipPath>
-</defs>
-<g clip-path="url(#qround)">
-<rect width="1000" height="300" fill="url(#qbg)"/>
-<g filter="url(#qsoft)">
-<circle cx="160" cy="80" r="140" fill="url(#qa)"><animateTransform attributeName="transform" type="translate" values="0 0; 38 28; -20 22; 0 0" dur="14s" repeatCount="indefinite"/></circle>
-<circle cx="860" cy="230" r="150" fill="url(#qb)"><animateTransform attributeName="transform" type="translate" values="0 0; -38 -20; 22 -30; 0 0" dur="17s" repeatCount="indefinite"/></circle>
-<circle cx="540" cy="40" r="110" fill="url(#qc)"><animateTransform attributeName="transform" type="translate" values="0 0; 26 30; -26 12; 0 0" dur="19s" repeatCount="indefinite"/></circle>
-</g>
-<rect x="30" y="34" width="940" height="232" rx="24" fill="url(#qsheen)" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1.5"/>
-<rect x="42" y="40" width="916" height="48" rx="20" fill="url(#qhl)" opacity="0.45"/>
-<g clip-path="url(#qpanelClip)"><rect x="-350" y="34" width="240" height="232" fill="url(#qshine)" transform="skewX(-18)"><animate attributeName="x" values="-350; 1100" dur="7.5s" repeatCount="indefinite"/></rect></g>
-<rect x="64" y="92" width="5" height="116" rx="2.5" fill="url(#qaccent)"/>
-<text x="74" y="166" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-weight="700" fill="url(#qaccent)" opacity="0.20">&#8220;</text>
-<text font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#ece3d8" font-size="30" font-style="italic" font-weight="500">
-      <tspan x="100" y="134">Compound interest is the eighth wonder of the</tspan>
-      <tspan x="100" y="178">world.</tspan>
-</text>
-<text x="938" y="236" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#ff9a5c">&#8212;&#160; Albert Einstein</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" role="img" aria-label="The market can stay irrational longer than you can stay solvent — John Maynard Keynes">
+  <defs>
+    <linearGradient id="qcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171021"/>
+      <stop offset="1" stop-color="#1d1216"/>
+    </linearGradient>
+    <linearGradient id="qline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7a3c"/>
+      <stop offset="1" stop-color="#ffb56b"/>
+    </linearGradient>
+    <linearGradient id="qshimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffe8cf" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffe8cf" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#ffe8cf" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="2" y="2" width="896" height="206" rx="22" fill="url(#qcard)" stroke="#2a2140" stroke-width="1.5"/>
+
+  <!-- giant faded quote mark -->
+  <text x="64" y="128" font-family="Georgia,'Times New Roman',serif" font-size="150" fill="#ff7a3c" opacity=".14">“</text>
+
+  <!-- moon accent -->
+  <circle cx="836" cy="52" r="17" fill="#ffe8cf" opacity=".9"/>
+  <circle cx="830" cy="47" r="4" fill="#f4d3ae" opacity=".7"/>
+  <circle cx="842" cy="58" r="2.6" fill="#f4d3ae" opacity=".6"/>
+  <circle cx="836" cy="52" r="30" fill="#ffd9a0" opacity=".08">
+    <animate attributeName="opacity" values=".08;.16;.08" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- the quote -->
+  <text x="450" y="92" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="26" fill="#ffe8cf">The market can stay irrational longer</text>
+  <text x="450" y="128" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="26" fill="#ffe8cf">than you can stay solvent.</text>
+
+  <!-- divider + attribution -->
+  <rect x="410" y="146" width="80" height="2" rx="1" fill="url(#qline)">
+    <animate attributeName="width" values="40;80;40" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="430;410;430" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="450" y="174" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#ffb56b">JOHN MAYNARD KEYNES</text>
+  <text x="450" y="192" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="11" fill="#b9a896">a quant's favourite warning</text>
+
+  <!-- sparkles -->
+  <g font-family="Arial,sans-serif" fill="#ffb56b">
+    <text x="112" y="60" font-size="13">✦<animate attributeName="opacity" values=".15;1;.15" dur="2.8s" repeatCount="indefinite"/></text>
+    <text x="778" y="160" font-size="11">✦<animate attributeName="opacity" values="1;.15;1" dur="3.4s" repeatCount="indefinite" begin=".8s"/></text>
+    <text x="140" y="170" font-size="10">✦<animate attributeName="opacity" values=".2;.9;.2" dur="3s" repeatCount="indefinite" begin="1.4s"/></text>
+  </g>
+
+  <!-- travelling shimmer -->
+  <rect x="-260" y="2" width="260" height="206" fill="url(#qshimmer)" transform="skewX(-12)">
+    <animate attributeName="x" values="-260;1160" dur="7s" repeatCount="indefinite"/>
+  </rect>
 </svg>
