@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 170" width="840" height="170" role="img" aria-label="Now playing — lofi beats to build AI to">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171021"/>
+      <stop offset="1" stop-color="#1d1216"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#ff7a3c"/>
+      <stop offset="1" stop-color="#ffb56b"/>
+    </linearGradient>
+    <radialGradient id="label" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#ffb56b"/>
+      <stop offset="1" stop-color="#ff7a3c"/>
+    </radialGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="2" y="2" width="836" height="166" rx="22" fill="url(#card)" stroke="#2a2140" stroke-width="1.5"/>
+
+  <!-- vinyl -->
+  <g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 96 85" to="360 96 85" dur="5s" repeatCount="indefinite"/>
+      <circle cx="96" cy="85" r="54" fill="#0a0810"/>
+      <circle cx="96" cy="85" r="46" fill="none" stroke="#1f1a2a" stroke-width="1.4"/>
+      <circle cx="96" cy="85" r="38" fill="none" stroke="#1f1a2a" stroke-width="1.4"/>
+      <circle cx="96" cy="85" r="30" fill="none" stroke="#1f1a2a" stroke-width="1.4"/>
+      <circle cx="96" cy="85" r="17" fill="url(#label)"/>
+      <circle cx="96" cy="85" r="3.4" fill="#0a0810"/>
+      <path d="M 96 33 A 52 52 0 0 1 141 59" fill="none" stroke="#ffe8cf" stroke-opacity=".28" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- text block -->
+  <g>
+    <text x="184" y="52" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="13" letter-spacing="3" fill="#ffb56b">NOW VIBING ♪</text>
+    <text x="184" y="86" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#ffe8cf">lofi beats to build AI to</text>
+    <text x="184" y="112" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#b9a896">daksh.fm · 24/7 · no skips ever</text>
+
+    <!-- progress -->
+    <rect x="184" y="132" width="400" height="4" rx="2" fill="#2a2140"/>
+    <rect x="184" y="132" height="4" rx="2" fill="#ffb56b" width="0">
+      <animate attributeName="width" values="0;400" dur="36s" repeatCount="indefinite"/>
+    </rect>
+    <circle cy="134" r="5" fill="#ffe8cf" cx="184">
+      <animate attributeName="cx" values="184;584" dur="36s" repeatCount="indefinite"/>
+    </circle>
+    <text x="608" y="139" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#b9a896">∞</text>
+  </g>
+
+  <!-- equalizer -->
+  <g fill="url(#bar)">
+    <rect x="672" y="60" width="11" height="50" rx="5.5">
+      <animate attributeName="height" values="18;50;26;44;18" dur="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="92;60;84;66;92" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="691" y="52" width="11" height="58" rx="5.5">
+      <animate attributeName="height" values="40;16;58;30;40" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="70;94;52;80;70" dur="1.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="710" y="66" width="11" height="44" rx="5.5">
+      <animate attributeName="height" values="22;44;14;38;22" dur="1.15s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="88;66;96;72;88" dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="729" y="56" width="11" height="54" rx="5.5">
+      <animate attributeName="height" values="50;24;54;18;50" dur="1.45s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="60;86;56;92;60" dur="1.45s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="748" y="62" width="11" height="48" rx="5.5">
+      <animate attributeName="height" values="16;48;28;42;16" dur="1.25s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="94;62;82;68;94" dur="1.25s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="767" y="70" width="11" height="40" rx="5.5">
+      <animate attributeName="height" values="34;12;40;22;34" dur="1.55s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="76;98;70;88;76" dur="1.55s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="786" y="64" width="11" height="46" rx="5.5">
+      <animate attributeName="height" values="20;46;16;36;20" dur="1.35s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="90;64;94;74;90" dur="1.35s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- corner sparkle -->
+  <text x="806" y="34" font-family="Arial,sans-serif" font-size="14" fill="#ffb56b">✦
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+</svg>
