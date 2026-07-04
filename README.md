@@ -1,61 +1,65 @@
-<!-- ═══════════════════════════════════════════════════════════
-     GitHub Profile README — Dakshinde130
-     Night-ramen palette · amber #ffb56b · ember #ff7a3c
-═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     DAKSH SHINDE — GITHUB PROFILE · "NIGHT RAMEN" EDITION
+     hand-drawn animated SVG art · warm lofi palette · ffb56b / ff7a3c
 
-<!-- BANNER GIF — push a GIF named "banner.gif" to your repo root to activate this -->
+     HOW TO USE (one drag & drop):
+     upload these 4 files together to the Dakshinde130/Dakshinde130 repo:
+       README.md (this file) · hero-banner.svg · now-playing.svg · stats-ribbon.svg
+═══════════════════════════════════════════════════════════════ -->
+
+<!-- OPTIONAL EXTRA BANNER: already have banner.gif in this repo?
+     Move the img line below OUT of this comment and it goes live above the art.
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/banner.gif" width="100%" alt="Banner" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/banner.gif" width="100%" alt="Banner"/>
+</div>
+-->
+
+<!-- ══════════ HAND-DRAWN ANIMATED HERO ══════════ -->
+<div align="center">
+  <img src="hero-banner.svg" width="100%" alt="Daksh Shinde — a little animated night scene: a glowing ramen shop, a city skyline, and a moon"/>
 </div>
 
-<!-- NAME BANNER (liquid-glass) -->
+<!-- ══════════ TYPING LINE ══════════ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/name-banner.svg" width="100%" alt="Daksh Shinde — Quant Finance · AI Engineering · CS @ SGGS"/>
-</div>
-
-<!-- TYPING SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FFB56B&center=true&vCenter=true&width=990&height=44&lines=CS+%2B+Data+Science+%40+SGGS+Nanded;I+Build+AI+Things+That+Actually+Work;Bayesian+Brains+%7C+Finance+%7C+Algo+Trading;Always+Building%2C+Never+Stopping&cursor=underscore"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3400&pause=1000&color=FFB56B&center=true&vCenter=true&width=990&height=42&lines=I+build+AI+things+that+actually+work+%F0%9F%A4%96;quant+finance+%C2%B7+algo+trading+%C2%B7+bayesian+brains+%F0%9F%93%88;CS+%2B+Data+Science+%40+SGGS+Nanded+%F0%9F%8E%93;fueled+by+ramen+%26+lofi+beats+%F0%9F%8D%9C;always+building%2C+never+stopping+%E2%9C%A8&cursor=underscore"/>
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/✦-open%20to%20internships%20%26%20full--time%20roles-1a0e08?style=for-the-badge&labelColor=1a0e08&color=2b1712"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Dakshinde130&label=visitors&color=ff7a3c&style=for-the-badge"/>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Developer%20From%20India-1a0e08?style=for-the-badge&logoColor=ffb56b"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here!-FF7A3C?style=for-the-badge&logoColor=white"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Dakshinde130&label=Profile+Views&color=ff7a3c&style=for-the-badge"/>
-</div>
-
----
-
-# Daksh Shinde
-
-## About Me
+## 🌙 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/22b22287602523.5dbd29081561d.gif" width="400" alt="Lofi Pixel Art"/>
 
-- **B.Tech CS + Data Science Minor** @ SGGS Institute, Nanded *(2023–2027)*
-- I build with **AI & ML** — and I care that it actually works, not just demos well
-- Obsessed with **algorithmic trading, markets & quantitative finance**
-- Currently diving deep into: **AI Engineering, Cloud & Quant Strategies**
-- Open to collab on: **AI apps, fintech projects, open source**
-- Ask me about: **Bayesian inference, anime, trading, or literally anything CS**
-- Goal: **A job or internship where I build real things with a real team**
-- Fun fact: Built a mind-reading anime guessing game using pure probability math — and it works
+*good to have you here.* ☕
+
+- 🎓 **B.Tech CS + Data Science Minor** @ SGGS Institute, Nanded *(2023–2027)*
+- 🤖 I build with **AI & ML** — and I care that it actually works, not just demos well
+- 📈 Obsessed with **algorithmic trading, markets & quantitative finance**
+- ☁️ Currently diving deep into **AI engineering, cloud & quant strategies**
+- 🤝 Open to collab on **AI apps, fintech projects & open source**
+- 💬 Ask me about **Bayesian inference, anime, trading — or literally anything CS**
+- 🎯 Goal: **a job or internship where I build real things with a real team**
+- ⚡ Fun fact: built a mind-reading anime guessing game using pure probability math — **and it works**
 
 <br clear="right"/>
 
----
+<div align="center">
+  <img src="now-playing.svg" width="80%" alt="Now playing — lofi beats to build AI to · daksh.fm · 24/7 · no skips ever"/>
+</div>
 
-### Connect With Me
+<br/>
+
+### 🔗 Find Me Around
 
 <div align="left">
   <a href="https://linkedin.com/in/daksh-shinde-523452267" target="_blank">
@@ -71,27 +75,31 @@
   </a>
   <br/><br/>
   <a href="https://dakshinde130.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1a0e08?style=for-the-badge&logo=google-chrome&logoColor=FF7A3C" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/visit%20my%20portfolio%20→-1a0e08?style=for-the-badge&logo=google-chrome&logoColor=FF7A3C" alt="Portfolio"/>
   </a>
 </div>
 
----
+<br/>
 
-## What I'm Doing Right Now
+### 🌱 Right Now I'm…
 
 - Finalising **AniKator** and **SmartStyle AI** — pushing full repos live soon
 - Going deeper on **AI engineering** — building systems meant for production, not demos
-- Studying **algorithmic trading strategies**, pairs trading, and market microstructure
-- Actively looking for **internships & full-time roles** in AI/ML or full-stack
-- Always up for a good conversation — reach out anytime
+- Studying **algorithmic trading strategies**, pairs trading & market microstructure
+- Looking for **internships & full-time roles** in AI/ML or full-stack
+- Always up for a good conversation — reach out anytime ✨
 
----
+<br/>
+
+<div align="center">
+  <img src="stats-ribbon.svg" width="100%" alt="7 projects built · 11 certifications · 83 of 83 tests passing · 2000+ fest guests hosted"/>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-# My Favorite Tools & Technologies
+## 🍜 The Toolbox
 
 <div align="center">
 <table>
@@ -167,17 +175,21 @@
 </table>
 </div>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-# Projects I'm Proud Of
+## ⚡ Things I've Built
 
----
+<div align="center">
 
-### Monte Carlo Trading Simulator — *A Thousand Futures for Every Stock*
+*seven projects — quant tools, AI apps and full-stack builds. strongest first.* 🌟
+
+</div>
+
+<br/>
+
+### 🎲 Monte Carlo Trading Simulator — *A Thousand Futures for Every Stock*
 
 > **"Markets are random. So I simulated a thousand versions of tomorrow — and stress-tested every strategy against all of them."**
 
@@ -188,6 +200,7 @@
 An **8-page Streamlit quant lab** that generates **1,000+ price paths** per asset across **7 stochastic models**, then backtests strategies and scores their risk the way a real trading desk would. This is the project that taught me how serious quant tooling is actually built.
 
 **What's under the hood:**
+
 - **7 stochastic engines** — GBM, Heston, Merton-jump, Kou, regime-switching, Student-t & historical bootstrap
 - **9 strategies** backtested with VaR, CVaR, Sharpe & Sortino
 - Efficient frontier + **Black–Scholes** options pricing
@@ -195,7 +208,9 @@ An **8-page Streamlit quant lab** that generates **1,000+ price paths** per asse
 
 </td>
 <td width="35%" align="center">
+
 <img src="https://media1.tenor.com/m/3FAqG4T91DkAAAAd/bad-apple.gif" width="200" alt="Monte Carlo Trading Simulator"/>
+
 </td>
 </tr>
 </table>
@@ -211,20 +226,23 @@ An **8-page Streamlit quant lab** that generates **1,000+ price paths** per asse
 
 ---
 
-### TradeSim Pro — *Backtest Three Years in Three Seconds*
+### 📊 TradeSim Pro — *Backtest Three Years in Three Seconds*
 
 > **"Upload a Python strategy. Watch it trade real market history on charts that look like a trading terminal."**
 
 <table>
 <tr>
 <td width="35%" align="center">
+
 <img src="https://media1.tenor.com/m/57j3rDCa0bAAAAAd/kirby-kirby-air-rider.gif" width="190" alt="TradeSim Pro"/>
+
 </td>
 <td width="65%">
 
 A **full-stack strategy backtester**: a Python engine feeds **real Yahoo Finance OHLCV** into a dark-theme JavaScript front-end built to feel like a pro trading desk. Bring your own strategy, hit run, read the results like a quant.
 
 **The toolkit:**
+
 - Candlestick charts, equity curves & a **monthly P&L heatmap**
 - Parameter optimizer + P&L distribution analysis
 - Drop in your **own Python strategy file**
@@ -245,7 +263,7 @@ A **full-stack strategy backtester**: a Python engine feeds **real Yahoo Finance
 
 ---
 
-### Trading AI — *Your TradingView Chart, Read by a Machine*
+### 📡 Trading AI — *Your TradingView Chart, Read by a Machine*
 
 > **"It watches the symbol you're on and hands back a full trade plan — entry, stops, targets, conviction."**
 
@@ -256,6 +274,7 @@ A **full-stack strategy backtester**: a Python engine feeds **real Yahoo Finance
 A **Firefox extension wired to a Python backend** that reads live TradingView symbols and returns multi-timeframe trading signals across **10 timeframes** — for crypto, forex, and Indian equities. Market-structure analysis, automated.
 
 **What it spots:**
+
 - Auto-detected **order blocks** & support/resistance zones
 - **NIFTY 50 + India VIX** market-bias read
 - Confluence trade plan: **Entry, SL, TP1–TP3 + conviction score**
@@ -263,7 +282,9 @@ A **Firefox extension wired to a Python backend** that reads live TradingView sy
 
 </td>
 <td width="35%" align="center">
+
 <img src="https://media1.tenor.com/m/uaa1gPDEHmwAAAAd/jarvis-iron-man.gif" width="200" alt="Trading AI"/>
+
 </td>
 </tr>
 </table>
@@ -278,24 +299,27 @@ A **Firefox extension wired to a Python backend** that reads live TradingView sy
 
 ---
 
-### AniKator — *The AI That Can Read Your Mind*
+### 🎯 AniKator — *The AI That Can Read Your Mind*
 
 > **"Think of any anime character. I'll figure out who you picked."**
 
 <table>
 <tr>
 <td width="35%" align="center">
+
 <img src="https://media1.tenor.com/m/xRUyjk6zCSIAAAAd/bleach-ichigo.gif" width="200" alt="AniKator"/>
+
 </td>
 <td width="65%">
 
-AniKator is an **Akinator-style guessing game** for anime fans, powered by **Bayesian inference** and **Decision Trees**. You think of a character from a dataset of **1000+ anime characters** — AniKator asks targeted yes/no questions and narrows down the answer using probability math, not brute force.
+An **Akinator-style guessing game** for anime fans, powered by **Bayesian inference** and **decision trees**. Think of a character from a pool of **1,000+** — AniKator asks targeted yes/no questions and narrows down the answer with probability math, not brute force.
 
-Every question it asks is the *statistically optimal* one — the one that eliminates the most possibilities at once. The more you play, the smarter the logic feels.
+Every question it asks is the *statistically optimal* one — the one that eliminates the most possibilities at once.
 
 **What makes it different:**
+
 - Pure math, no hardcoded logic trees
-- 1000+ characters across genres and eras
+- 1,000+ characters across genres and eras
 - Optimized question flow — finds the answer fast
 - Built entirely solo, from dataset to UI
 
@@ -313,7 +337,7 @@ Every question it asks is the *statistically optimal* one — the one that elimi
 
 ---
 
-### SmartStyle AI — *Your Family's AI Fashion Assistant*
+### 👗 SmartStyle AI — *Your Family's AI Fashion Assistant*
 
 > **"Never stare at your wardrobe wondering what to wear again."**
 
@@ -321,11 +345,12 @@ Every question it asks is the *statistically optimal* one — the one that elimi
 <tr>
 <td width="65%">
 
-SmartStyle is a **full-stack AI wardrobe management app** that uses **computer vision** to recognize clothing items, suggests outfits based on occasion and preferences, and works for a single person, a couple, or an entire family under one account.
+A **full-stack AI wardrobe app** that uses **computer vision** to recognize clothing, then suggests outfits by occasion and preference — for one person, a couple, or a whole family under one account.
 
-Built with a secure **OTP-based login flow via Supabase** — no passwords to remember, no security compromises. The cloud backend means your wardrobe goes wherever you do.
+Secure **OTP login via Supabase** — no passwords to remember, no security compromises. Cloud backend, so your wardrobe goes wherever you do.
 
 **What it solves:**
+
 - Knows what you own, even when you forget
 - CV-powered item recognition — snap and save
 - Multi-user support for families
@@ -333,7 +358,9 @@ Built with a secure **OTP-based login flow via Supabase** — no passwords to re
 
 </td>
 <td width="35%" align="center">
+
 <img src="https://media1.tenor.com/m/Cy8zIi3BluwAAAAd/chico-lachowski-mog.gif" width="180" alt="SmartStyle"/>
+
 </td>
 </tr>
 </table>
@@ -347,20 +374,23 @@ Built with a secure **OTP-based login flow via Supabase** — no passwords to re
 
 ---
 
-### SkillSwap — *The Student Knowledge Exchange*
+### 🔄 SkillSwap — *The Student Knowledge Exchange*
 
 > **"You know something I don't. I know something you don't. Let's trade."**
 
 <table>
 <tr>
 <td width="35%" align="center">
+
 <img src="https://media1.tenor.com/m/49O8PMTCaCwAAAAd/crypto-cryptolink.gif" width="200" alt="SkillSwap"/>
+
 </td>
 <td width="65%">
 
-SkillSwap is a **peer-to-peer learning platform** built on a simple but powerful idea: college students are massively underutilized as teachers. Post a skill you can teach, browse skills you want to learn, and connect — no money, no tutors, just students helping students.
+A **peer-to-peer learning platform** built on a simple but powerful idea: college students are massively underutilized as teachers. Post a skill you can teach, browse skills you want to learn, and connect — no money, no tutors, just students helping students.
 
 **The vision:**
+
 - Skill barter — teach one, learn one
 - Built for and by students
 - Fast Streamlit interface, clean Pandas backend
@@ -378,7 +408,7 @@ SkillSwap is a **peer-to-peer learning platform** built on a simple but powerful
 
 ---
 
-### Recipe Generator — *Ingredients In, Dinner Out*
+### 🍳 Recipe Generator — *Ingredients In, Dinner Out*
 
 > **"Tell it what's in your fridge. It figures out the rest."**
 
@@ -386,9 +416,10 @@ SkillSwap is a **peer-to-peer learning platform** built on a simple but powerful
 <tr>
 <td width="65%">
 
-A **Java-based recipe discovery app** that takes what you have — ingredients, dietary preferences, or a craving — and returns recipes via live API calls. The focus was on writing genuinely **clean, extensible OOP code**: every component is modular, every method does one thing well.
+A **Java-based recipe discovery app** that takes what you have — ingredients, dietary preferences, or a craving — and returns recipes via live API calls. The focus: genuinely **clean, extensible OOP code**. Every component modular, every method doing one thing well.
 
 **The engineering:**
+
 - Java with clean OOP architecture
 - Live recipe API integration
 - Modular design — easy to extend or repurpose
@@ -396,7 +427,9 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
 
 </td>
 <td width="35%" align="center">
+
 <img src="https://media1.tenor.com/m/NgYG-uaOsEAAAAAd/anime-food.gif" width="220" alt="Recipe Generator"/>
+
 </td>
 </tr>
 </table>
@@ -407,27 +440,21 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
 
 [![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/recipe-generator)
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08080f,50:1a0e08,100:ff7a3c&height=68&section=header&text=Experience%20%E2%80%94%20Internships&fontSize=32&fontColor=ffb56b&fontAlignY=55"/>
-</div>
+## 💼 Where I've Worked
 
 <div align="center">
 
-> *Two internships, two different worlds — capital markets and search. Both taught me how real teams actually ship.*
+*two internships, two different worlds — capital markets and search. both taught me how real teams actually ship.*
 
 </div>
 
----
+<br/>
 
-### Finance & Stock Market Intern-Trainee — *CertiWise Hub*
-
-**June 2026**
+### 📈 Finance & Stock Market Intern-Trainee — *CertiWise Hub* · June 2026
 
 > **"Learning how capital actually moves — from portfolio theory to the trade ticket."**
 
@@ -438,13 +465,16 @@ A **Java-based recipe discovery app** that takes what you have — ingredients, 
 Hands-on immersion in **financial & investment markets** — the mechanics behind mutual funds, NPS, fixed deposits, and tax-saving instruments, plus the **portfolio & risk management** thinking that ties them all together.
 
 **On the desk:**
-- Building exposure across **mutual funds, NPS, FDs & tax-saving instruments** plus core portfolio & risk concepts
-- Developing a personal **Investment Policy Statement (IPS)** with structured stock-selection criteria & planning strategies
-- **Performance tracking** — analysing campaign metrics as part of a structured evaluation
+
+- Exposure across **mutual funds, NPS, FDs & tax-saving instruments** plus core portfolio & risk concepts
+- Built a personal **Investment Policy Statement (IPS)** with structured stock-selection criteria
+- **Performance tracking** — analysed campaign metrics as part of a structured evaluation
 
 </td>
 <td width="35%" align="center">
+
 <img src="https://media1.tenor.com/m/MeXxoUFWX2cAAAAd/3d-stock-market.gif" width="200" alt="Finance Internship"/>
+
 </td>
 </tr>
 </table>
@@ -456,22 +486,23 @@ Hands-on immersion in **financial & investment markets** — the mechanics behin
 
 ---
 
-### SEO Intern — *Godecor Technologies Pvt Ltd*
-
-**Sept 2024 – Oct 2024**
+### 🔍 SEO Intern — *Godecor Technologies Pvt Ltd* · Sept–Oct 2024
 
 > **"Made pages findable — keyword research, audits, and the backlinks that actually move rankings."**
 
 <table>
 <tr>
 <td width="35%" align="center">
+
 <img src="https://media1.tenor.com/m/-ZEBk9deJ9EAAAAd/what-the-sigma-cat-cat-reaction.gif" width="190" alt="SEO Internship"/>
+
 </td>
 <td width="65%">
 
 Worked the **search-visibility** side of digital growth: research, audits, and optimisation aimed at lifting organic reach across the company's digital assets.
 
 **What I did:**
+
 - Ran **keyword research, on-page optimisation & SEO audits** to grow search visibility and organic reach
 - Analysed **website performance metrics**, built high-quality backlinks & drove outreach initiatives
 - Stayed current on evolving SEO trends through ongoing team discussions
@@ -485,118 +516,90 @@ Worked the **search-visibility** side of digital growth: research, audits, and o
 ![Content Optimization](https://img.shields.io/badge/Content_Optimization-20232A?style=for-the-badge&logoColor=FF7A3C)
 ![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-20232A?style=for-the-badge&logoColor=FFB56B)
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-# GitHub Stats
+## 📊 GitHub, In Numbers
 
 <div align="center">
 
-*Commits compound — just like returns.*
+*commits compound — just like returns.* 📈
 
 <br/>
 
-<a href="https://github.com/Dakshinde130?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Dakshinde130?style=for-the-badge&logo=github&logoColor=ffb56b&label=Followers&labelColor=0d1117&color=ff7a3c"/></a>
-&nbsp;
-<img alt="Focus" src="https://img.shields.io/static/v1?style=for-the-badge&label=Focus&message=AI%20%C2%B7%20ML%20%C2%B7%20Quant&labelColor=0d1117&color=ff7a3c"/>
-&nbsp;
-<img alt="Open to opportunities" src="https://img.shields.io/static/v1?style=for-the-badge&label=Status&message=Open%20to%20Opportunities&labelColor=0d1117&color=ff7a3c"/>
+<img height="185" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb56b&icon_color=ff7a3c&text_color=c9d1d9&ring_color=ff7a3c&include_all_commits=true&count_private=true"/>
+<img height="185" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb56b&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
 <img width="80%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Dakshinde130&border_radius=6&border=30363d&background=0d1117&stroke=30363d&ring=ff7a3c&fire=ffb56b&currStreakLabel=ffb56b&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ff7a3c&sideNums=ffffff"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=gruvbox&no-frame=false&no-bg=true&margin-w=6&column=4&row=2" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=0d1117&hide_border=true&radius=20&area=true&area_color=ff7a3c&line=ff7a3c&point=ffe2bd&color=b9a896&title_color=ffb56b&custom_title=Daksh%27s%20Contribution%20Graph"/>
+
 </div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=gruvbox&no-frame=false&no-bg=true&margin-w=6&column=4&row=2" alt="GitHub Trophies"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-# Certifications & Courses
+## 🎓 Certifications & Courses
 
 <div align="center">
 
 | Certification | Issuer |
 |---|---|
-| Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle |
-| Oracle Cloud Infrastructure 2025 Generative AI Professional | Oracle |
-| Trading Strategies in Emerging Markets | Indian School of Business |
-| Machine Learning for All | University of London |
-| Python & Statistics for Financial Analysis | HKUST |
-| Data Structures & Algorithms Specialization | UC San Diego |
-| Using Python to Access Web Data | University of Michigan |
-| Python Data Structures | University of Michigan |
-| Retrieving, Processing & Visualizing Data with Python | University of Michigan |
-| Claude AI Fluency & Prompt Engineering | Anthropic |
-| Smart India Hackathon Participant | Government of India |
+| Oracle Cloud Infrastructure 2025 AI Foundations Associate | **Oracle** |
+| Oracle Cloud Infrastructure 2025 Generative AI Professional | **Oracle** |
+| Trading Strategies in Emerging Markets | **Indian School of Business** |
+| Machine Learning for All | **University of London** |
+| Python & Statistics for Financial Analysis | **HKUST** |
+| Data Structures & Algorithms Specialization | **UC San Diego** |
+| Using Python to Access Web Data | **University of Michigan** |
+| Python Data Structures | **University of Michigan** |
+| Retrieving, Processing & Visualizing Data with Python | **University of Michigan** |
+| Claude AI Fluency & Prompt Engineering | **Anthropic** |
+| Smart India Hackathon Participant | **Government of India** |
 
 </div>
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-# Leadership — Pragyaa Fest
+## 🎪 Three Years of Pragyaa
 
 <div align="center">
 
-> *Three years. Three roles. One fest that taught me how to actually get things done.*
+*three years. three roles. one fest that taught me how to actually get things done.*
 
 | Year | Role | Level |
 |:---:|---|:---:|
-| 2023–24 | Hospitality Trainee | Start |
-| 2024–25 | Joint Coordinator, Public Relations | Growth |
-| 2025–26 | **Hospitality & Guest Management Lead** | Lead |
+| 2025–26 | **Hospitality & Guest Management Lead** | 👑 Lead |
+| 2024–25 | Joint Coordinator, Public Relations | 🚀 Growth |
+| 2023–24 | Hospitality Trainee | 🌱 Start |
 
 </div>
 
-Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led teams, managed VIP guests, coordinated with sponsorship, PR, and logistics teams simultaneously — and kept calm when everything was on fire. Three years of building the muscle to get things done under pressure.
-
----
+Ran operations for **Pragyaa**, SGGS's flagship annual tech & culture fest drawing **2,000+ student participants**. Led teams, managed VIP guests, coordinated sponsorship, PR and logistics simultaneously — and kept calm when everything was on fire. Three years of building the muscle to get things done under pressure.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-# Random Dev Quote
+## 💌 Let's Talk
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/quote-card.svg" width="80%" alt="The market can stay irrational longer than you can stay solvent. — John Maynard Keynes"/>
-</div>
 
----
+### *always up for a conversation — about AI, trading, an opportunity, or a random idea worth building.* 🚀
 
-# Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=0d1117&hide_border=true&radius=20&area=true&area_color=ff7a3c&line=ff7a3c&point=ffe2bd&color=b9a896&title_color=ffb56b&custom_title=Daksh%27s%20Contribution%20Graph"/>
-</div>
-
----
-
-<!-- PACMAN SNAKE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/main/pacman-contributions.svg" width="100%" alt="Pacman Snake"/>
-</div>
-
----
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0e08?style=for-the-badge&logo=linkedin&logoColor=FFB56B)](https://linkedin.com/in/daksh-shinde-523452267)
 &nbsp;&nbsp;
@@ -610,9 +613,44 @@ Ran operations for **Pragyaa**, SGGS's annual flagship tech & culture fest. Led 
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Dakshinde130&icon=7&color=12)](https://visitcount.itsvg.in)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:1a0e08,100:ff7a3c&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffb56b&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:1a0e08,100:ff7a3c&height=120&section=footer&text=made%20with%20ramen%20%26%20late%20nights%20%F0%9F%8D%9C&fontSize=18&fontColor=ffb56b&fontAlignY=70&animation=fadeIn" width="100%"/>
+
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     OPTIONAL UPGRADE — CONTRIBUTION SNAKE (2 minutes, one time):
+     1. In this repo: Actions tab, "set up a workflow yourself", paste:
+
+        name: generate snake
+        on:
+          schedule:
+            - cron: "0 0 * * *"
+          workflow_dispatch:
+        permissions:
+          contents: write
+        jobs:
+          build:
+            runs-on: ubuntu-latest
+            steps:
+              - uses: Platane/snk/svg-only@v3
+                with:
+                  github_user_name: Dakshinde130
+                  outputs: dist/snake.svg?palette=github-dark
+              - uses: crazy-max/ghaction-github-pages@v4
+                with:
+                  target_branch: output
+                  build_dir: dist
+                env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+     2. Run it once from the Actions tab, then add this line anywhere:
+        <img src="https://raw.githubusercontent.com/Dakshinde130/Dakshinde130/output/snake.svg" width="100%"/>
+═══════════════════════════════════════════════════════════════ -->
+
+<!-- you found the hidden comment. that's very you. 🍜
+     go build something cool — or come say hi: dakshinde007@gmail.com -->
+
