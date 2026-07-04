@@ -3,8 +3,9 @@
      hand-drawn animated SVG art · warm lofi palette · ffb56b / ff7a3c
 
      HOW TO USE (one drag & drop):
-     upload these 4 files together to the Dakshinde130/Dakshinde130 repo:
-       README.md (this file) · hero-banner.svg · now-playing.svg · stats-ribbon.svg
+     upload these 6 files together to the Dakshinde130/Dakshinde130 repo:
+       README.md (this file) · hero-banner.svg · now-playing.svg
+       stats-ribbon.svg · quote-card.svg · contact-banner.svg
 ═══════════════════════════════════════════════════════════════ -->
 
 <!-- OPTIONAL EXTRA BANNER: already have banner.gif in this repo?
@@ -528,8 +529,8 @@ Worked the **search-visibility** side of digital growth: research, audits, and o
 
 <br/>
 
-<img height="185" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb56b&icon_color=ff7a3c&text_color=c9d1d9&ring_color=ff7a3c&include_all_commits=true&count_private=true"/>
-<img height="185" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb56b&text_color=c9d1d9&langs_count=8"/>
+<img height="185" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb56b&icon_color=ff7a3c&text_color=c9d1d9&ring_color=ff7a3c"/>
+<img height="185" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb56b&text_color=c9d1d9"/>
 
 <br/><br/>
 
@@ -537,7 +538,7 @@ Worked the **search-visibility** side of digital growth: research, audits, and o
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=gruvbox&no-frame=false&no-bg=true&margin-w=6&column=4&row=2" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=7&row=1" alt="GitHub Trophies"/>
 
 <br/><br/>
 
@@ -597,27 +598,29 @@ Ran operations for **Pragyaa**, SGGS's flagship annual tech & culture fest drawi
 
 <div align="center">
 
-### *always up for a conversation — about AI, trading, an opportunity, or a random idea worth building.* 🚀
+<a href="mailto:dakshinde007@gmail.com">
+  <img src="contact-banner.svg" width="90%" alt="let's build something real — email me anytime"/>
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff7a3c?style=for-the-badge&logo=linkedin&logoColor=1a0e08)](https://linkedin.com/in/daksh-shinde-523452267)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-ffb56b?style=for-the-badge&logo=github&logoColor=1a0e08)](https://github.com/Dakshinde130)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-ff7a3c?style=for-the-badge&logo=gmail&logoColor=1a0e08)](mailto:dakshinde007@gmail.com)
+&nbsp;
+[![College](https://img.shields.io/badge/College%20Mail-ffb56b?style=for-the-badge&logo=microsoftoutlook&logoColor=1a0e08)](mailto:2023bcs130@sggs.ac.in)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffe8cf?style=for-the-badge&logo=google-chrome&logoColor=1a0e08)](https://dakshinde130.github.io)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0e08?style=for-the-badge&logo=linkedin&logoColor=FFB56B)](https://linkedin.com/in/daksh-shinde-523452267)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1a0e08?style=for-the-badge&logo=github&logoColor=FFB56B)](https://github.com/Dakshinde130)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-1a0e08?style=for-the-badge&logo=gmail&logoColor=FFB56B)](mailto:dakshinde007@gmail.com)
-&nbsp;&nbsp;
-[![College](https://img.shields.io/badge/College%20Mail-1a0e08?style=for-the-badge&logo=microsoftoutlook&logoColor=FFB56B)](mailto:2023bcs130@sggs.ac.in)
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a0e08?style=for-the-badge&logo=google-chrome&logoColor=FF7A3C)](https://dakshinde130.github.io)
+<img src="quote-card.svg" width="80%" alt="The market can stay irrational longer than you can stay solvent — John Maynard Keynes"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:1a0e08,100:ff7a3c&height=120&section=footer&text=made%20with%20ramen%20%26%20late%20nights%20%F0%9F%8D%9C&fontSize=18&fontColor=ffb56b&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:1a0e08,100:ff7a3c&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffb56b&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -653,4 +656,3 @@ Ran operations for **Pragyaa**, SGGS's flagship annual tech & culture fest drawi
 
 <!-- you found the hidden comment. that's very you. 🍜
      go build something cool — or come say hi: dakshinde007@gmail.com -->
-
