@@ -223,7 +223,7 @@ An **8-page Streamlit quant lab** that generates **1,000+ price paths** per asse
 ![matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logoColor=FF7A3C)
 ![pytest](https://img.shields.io/badge/pytest-20232A?style=for-the-badge&logo=pytest&logoColor=FFB56B)
 
-[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/monte-carlo-trading-simulator)
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/monte-carlo-simulator)
 
 ---
 
@@ -260,7 +260,7 @@ A **full-stack strategy backtester**: a Python engine feeds **real Yahoo Finance
 ![NumPy](https://img.shields.io/badge/NumPy-20232A?style=for-the-badge&logo=numpy&logoColor=FF7A3C)
 ![yfinance](https://img.shields.io/badge/yfinance-20232A?style=for-the-badge&logoColor=FFB56B)
 
-[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/tradesim-pro)
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/StrategyBacktester)
 
 ---
 
@@ -296,7 +296,7 @@ A **Firefox extension wired to a Python backend** that reads live TradingView sy
 ![ccxt](https://img.shields.io/badge/ccxt-20232A?style=for-the-badge&logoColor=FFB56B)
 ![yfinance](https://img.shields.io/badge/yfinance-20232A?style=for-the-badge&logoColor=FFB56B)
 
-[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/trading-ai)
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/trading-ai-indicators)
 
 ---
 
@@ -334,7 +334,7 @@ Every question it asks is the *statistically optimal* one — the one that elimi
 ![Pandas](https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=FFB56B)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/anikator)
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/my-react-anime_akinator)
 
 ---
 
@@ -371,7 +371,7 @@ Secure **OTP login via Supabase** — no passwords to remember, no security comp
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/SmartStyle-AI-based-Family-Wardrobe-and-Outfit-Recommendation-System)
+[![View Code →](https://img.shields.io/badge/View%20Code%20→-FF7A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshinde130/smartstyle)
 
 ---
 
