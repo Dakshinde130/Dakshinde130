@@ -25,9 +25,9 @@
 <rect x="64" y="92" width="5" height="116" rx="2.5" fill="url(#qaccent)"/>
 <text x="74" y="166" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-weight="700" fill="url(#qaccent)" opacity="0.20">&#8220;</text>
 <text font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#ece3d8" font-size="30" font-style="italic" font-weight="500">
-      <tspan x="100" y="134">Premature optimization is the root of all</tspan>
-      <tspan x="100" y="178">evil.</tspan>
+      <tspan x="100" y="134">The market can stay irrational longer than you</tspan>
+      <tspan x="100" y="178">can stay solvent.</tspan>
 </text>
-<text x="938" y="236" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#ff9a5c">&#8212;&#160; Donald Knuth</text>
+<text x="938" y="236" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#ff9a5c">&#8212;&#160; John Maynard Keynes</text>
 </g>
 </svg>
