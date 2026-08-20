@@ -521,35 +521,6 @@ Worked the **search-visibility** side of digital growth: research, audits, and o
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-## 📊 GitHub, In Numbers
-
-<div align="center">
-
-*commits compound — just like returns.* 📈
-
-<br/>
-
-<img height="185" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dakshinde130&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb56b&icon_color=ff7a3c&text_color=c9d1d9&ring_color=ff7a3c"/>
-<img height="185" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinde130&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb56b&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img width="80%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Dakshinde130&border_radius=6&border=30363d&background=0d1117&stroke=30363d&ring=ff7a3c&fire=ffb56b&currStreakLabel=ffb56b&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ff7a3c&sideNums=ffffff"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dakshinde130&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=7&row=1" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshinde130&bg_color=0d1117&hide_border=true&radius=20&area=true&area_color=ff7a3c&line=ff7a3c&point=ffe2bd&color=b9a896&title_color=ffb56b&custom_title=Daksh%27s%20Contribution%20Graph"/>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
 ## 🎓 Certifications & Courses
 
 <div align="center">
